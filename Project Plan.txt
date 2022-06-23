@@ -1,0 +1,78 @@
+
+COMMON THEMES: 
+
+	- Making ICT Testing easier for users
+
+	- Want more hands-on work (creating, building, etc)
+
+	- Big impact and outreach
+
+
+GENERAL:
+
+	- Collaborate via GitHub 
+
+	ochong015
+
+	jiax264
+____________________________________________________________________________________________________________
+
+FIRST IDEA: ICT Guidance deliverable(s) (in some form)
+
+	- ICT Baseline Testing Form/Guide/Flowchart/Workflow
+
+	- Website with ICT Test examples (videos, etc) 
+
+KEY ISSUES: 
+
+	2) Scope of ICT information (there's a lot)
+
+	3) Supplement current baseline work (make standards much easier to consume)
+
+		- Don't change information
+
+TASKS:
+
+	1) Start with what doesn't make sense to us
+
+	2) 
+
+___________________________________________________________________________________________________________________________
+
+SECOND IDEA:
+
+Comparison of accessibility checkers? 
+
+	- Designing a science experiment
+
+	- Could be really good
+
+	- DELIVERABLE: written report? Video/website of findings?
+
+
+Making PowerPoint/Slides accessible for Slidedocs?
+
+	- Needs accessibility (presentation without the speaker)
+
+	- Used in industry and education
+
+	- How to create accessible Slidedocs (draw inspiration from other authoring tools)
+
+	- DELIVERABLE: Slidedoc (lol) on how to make accessible Slidedocs (applicable WCAG standards, best practices, etc)
+
+
+
+
+
+___________________________________________________________________________________________________________________________
+
+OTHER IDEAS: 
+
+Testing other federal websites
+
+508 Misconceptions ("De-Myth-ifying 508")
+
+Bad website to show ICT 
+
+
+
