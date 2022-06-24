@@ -10,7 +10,7 @@ Objectives
 * For each baseline test, create short videos of conforming and non-conforming examples 
 * Testing / UI example videos
    * Conforming
-      * walk through how to test a conforming example from a real site (federal agency if possible or other) 
+      * walk through how to test a conforming example from a real site 
    * Non-Conforming
       * walk through how to test a non-conforming example from a real site and why it fails 
          * create own non-conforming example if can’t find one from a real site
@@ -31,12 +31,9 @@ Tasks
    * prepare materials & write preliminary script for video 
 * Synthesize, revise, & edit after all baseline test drafts complete
 * record & upload to YouTube
-* Make a website 
 
 Deliverables
 * YouTube Playlist 
-* Compiled into website if enough time 
-   * formatted w/ nav bar for each test 
 
 Resources Required 
 * YouTube + caption editor in YouTube 
@@ -44,12 +41,11 @@ Resources Required
 * text editor or IDE 
 
 Timeline
-* 3 weeks to prepare drafts for each baseline test 
+* 3-4 weeks to prepare drafts for each baseline test 
    * 1 day for tests 1, 2, 3, 4, 5, 6, 7, 10, 21
    * ½ day for tests 8, 9, 12, 13, 14, 16, 17, 18, 20, 22, 23, 24
    * negligible/any day with extra time for tests 11, 15, 19 
 * 1 week to record (5 tests/day) 
-* 2 weeks for website and integration with Owen’s part 
 * 1 week buffer/preparation for final presentation 
 
 
