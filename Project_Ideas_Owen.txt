@@ -105,9 +105,15 @@ Resources Required
   
     - Adobe Acrobat (if making the form here is the best option)
     
+    - Talk to SEWP, they'll have options
+    
+     --> SharePoint?
+     
   * Database service
 
     - Downloadable for free on any laptop
+    
+        --> SharePoint?
     
   * I have everything I need for this project
 
@@ -115,7 +121,7 @@ Timeline
 
   * 2 weeks to create form
   
-    - 1 week to perform sample tests and formualte guiding questions
+    - 1 week to perform sample tests and formulate guiding questions
     
     - 1 week to create and test form
  
