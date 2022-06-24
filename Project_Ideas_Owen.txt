@@ -1,5 +1,7 @@
 ICT Testing Baseline Guide/Form
 
+_________________________________________________________________________________________________________________________________________________________________
+
 Rationale
 
   * No knowledge of a standardized flow for ICT testing
@@ -126,24 +128,64 @@ Report on Automated Accessibility Checkers
 
 Rationale
 
-- TBD
+ * Accessibility checkers will catch and miss certain things
+ 
+ * Important to know/measure how "useful" accessibility checkers are
 
 Objectives
 
-  - TBD
+  * Gain access to several automated accessibility checkers
+  
+  * Design an experiment and methodology to assess these checkers
+  
+  * Select testing websites and create quantitative/qualitative method to assess checkers
+  
+  * Produce a report on my findings
   
 Tasks
 
-  - TBD
-
+  * Gain access to several automated accessibility checkers
+  
+  * Design an experiment and methodology to assess these checkers
+  
+  * Select testing websites and create quantitative/qualitative method to assess checkers
+  
+  * Produce a report on my findings
+  
 Deliverables
 
-  - TBD
+  * Written report or presentation on my findings
 
 Resources Required 
 
-  - TBD
+  * Access to several automated accessibility checkers
+  
+   - Could cost money or require free trials
+   
+  * I have everything I need to do this task
 
 Timeline
 
-  - TBD
+  * Could happen in addition to the ICT Testing Baseline Form, or instead of it
+
+  * 2 weeks to set up the experiment
+  
+   - Get access to automated accessibility checkers
+   
+   - Formulate hypothesis (?) and methodology
+   
+   - Choose websites to test
+   
+   - Set up experiment
+   
+  * 1 week to test checkers
+  
+   - Use checkers on websites
+   
+   - Collect data
+   
+  * 1 week to report and present 
+  
+   - Analyze data and draw conclusions
+   
+   - Draft and finalize report
