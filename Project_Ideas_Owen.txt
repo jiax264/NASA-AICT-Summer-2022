@@ -1,4 +1,10 @@
-ICT Testing Baseline Guide/Form
+ICT Testing Baseline Guide/Form (format for test results)
+
+ * Phase 2,3 need buy-in from SEWP
+ 
+ * Rio provides process, I provide format to report test results
+ 
+ * 
 
 _________________________________________________________________________________________________________________________________________________________________
 
