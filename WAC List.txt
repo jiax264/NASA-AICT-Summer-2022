@@ -1,4 +1,6 @@
-﻿Checkers already acquired:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! = One to look at
+
+Checkers already acquired:
 * SortSite 
 
 __________________________________________________________________________________________________________________________________________________________
@@ -16,12 +18,18 @@ Axe Monitor https://www.deque.com/axe/monitor/
    
 __________________________________________________________________________________________________________________________________________________________   
    
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+   
 AMP by Level access https://www.levelaccess.com/solutions/software/amp/ 
 
    * allows spidering: https://support.levelaccess.com/hc/en-us/articles/206436065-Creating-an-AMP-Crawler 
    
+   * Looks comprehensive 
+   
 __________________________________________________________________________________________________________________________________________________________
    
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 SiteImprove
 
    * chrome extension https://chrome.google.com/webstore/detail/siteimprove-browser-exten/amoojkmllfodlpgmdnclkgdnejgpeada 
@@ -31,8 +39,14 @@ SiteImprove
 
 __________________________________________________________________________________________________________________________________________________________
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 UsableNet AQA https://usablenet.com/technology/aqa 
    * not sure if spidering tool
+   
+   * Can schedule a demo
+   
+   * Report is based on WCAG Guidelines
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -46,9 +60,14 @@ Total Validator https://www.totalvalidator.com/products/pro.html
    
 __________________________________________________________________________________________________________________________________________________________
    
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Tenon http://tenon.io/ 
    * looks pretty good 
    
+   * Can request demo
+   
+   * Spidering can be used --> https://blog.tenon.io/new-feature-in-winter-2018-projects-api-and-spider/
 __________________________________________________________________________________________________________________________________________________________
    
 sitemorse https://sitemorse.com/assessments/
@@ -56,11 +75,18 @@ sitemorse https://sitemorse.com/assessments/
    
 __________________________________________________________________________________________________________________________________________________________
    
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+   
 silktide https://silktide.com/solutions/accessibility/
    * looks excellent and does entire sites 
       - check out the accessibility report example
       
+   * Can request demo
+      
    * probably my favorite so far 
+   
+   * Can crawl/spider --> https://support.silktide.com/glossary/crawling/
    
 __________________________________________________________________________________________________________________________________________________________
    
