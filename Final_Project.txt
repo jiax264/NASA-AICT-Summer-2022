@@ -1,0 +1,104 @@
+Report on Automated Accessibility Checkers
+
+Rationale
+
+ * Accessibility checkers will catch and miss certain things
+ 
+ * Important to know/measure how "useful" accessibility checkers are
+
+______________________________________________________________________________________________________________________________
+
+Objectives
+
+  * Gain access to several automated accessibility checkers
+  
+  * Design an experiment and methodology to assess these checkers
+  
+  * Select testing websites and create quantitative/qualitative method to assess checkers
+  
+  * Produce a report on my findings
+
+______________________________________________________________________________________________________________________________
+
+Timeline - 5 weeks total
+
+  Questions
+  
+    * How many checkers and websites do we choose? Which websites?
+      
+      - How to deal with inconsistencies and other checker variables?
+      
+    * How to deal with two variables: Different checkers and different websites?
+    
+    * What did the previous reports conclude? What was their methodology?
+ 
+  Timeless Tasks
+  
+    * Manual web checking (ICT Baseline Testing)
+    
+    * Make final report accessible
+    
+    * ICT Baseline Example videos (time permitting)
+
+  Background Research - 1 week, joint effort
+  
+    * Look up how checkers work
+    
+    * Request/Get access to checkers
+    
+      - Overcompensate
+     
+      - SortSite (yes!), WAVE, Accessibility Insights, SiteImprove, Deque Axe, etc?
+    
+    * Look at previous reports
+    
+    
+  Evaluation Setup - 2 weeks 
+  
+    * Get access to automated web accessibility checkers
+    
+      - See "Request/Get access to checkers" above
+   
+    * Brainstorm research question(s)
+   
+      - "How helpful is the checker towards manual testing?"
+     
+      - "How do these checkers work? Are there certain scenarios where 1 > other?"
+   
+    * Choose websites to test
+   
+      - NASA.gov, SEWP
+     
+      - Control website is a good one/one that's easily manually testable: Section 508
+         
+    * Set up performance evaluation
+   
+      - Create outline for final report
+     
+      - Looking for:
+     
+         1) Usability of checker
+         
+         2) Functionality of checker
+         
+         3) Amount of error coverage
+         
+         4) Types of errors found
+         
+       - Quantitative/qualitative way to present findings
+   
+  Performance Evaluation - 1 week
+  
+   * Use checkers on websites
+   
+   * Collect data
+   
+     - See "Set up performance evaluation" above
+   
+  Analysis and Conclusion - 1 week
+  
+    * Analyze data
+    
+    * Write final report
+    
+       --> Word, PDF, Slidedoc
