@@ -1,5 +1,17 @@
 Report on Automated Accessibility Checkers
 
+Next Steps
+
+  * Break down tasks/timeline in-depth (dates and names)
+  
+    - Get READY for presentation to Betsy
+  
+  * Research and get access to checkers
+  
+    - Look at ComplianceSheriff and Andi (used for Trusted Tester)
+    
+  * Work on report outline (put in GitHub)
+
 Rationale
 
  * Accessibility checkers will catch and miss certain things
@@ -10,15 +22,25 @@ ________________________________________________________________________________
 
 Objectives
 
-  * Gain access to several automated accessibility checkers
-  
-  * Design an experiment and methodology to assess these checkers
-  
-  * Select testing websites and create quantitative/qualitative method to assess checkers
-  
-  * Produce a report on my findings
+  * Produce report for NASA to potentially replace SortSite
+ 
 
 ______________________________________________________________________________________________________________________________
+
+
+Considerations
+
+  * Security --> desktop > cloud
+    
+    - EX: Check if Deque is cloud-based
+    
+    - Cloud-based may need access to internal NASA servers, potential security issue
+    
+  * Check effectiveness with responsive websites
+  
+  * Narrow down to automated *web* checkers (
+  
+ ______________________________________________________________________________________________________________________________
 
 Timeline - 5 weeks total
 
@@ -39,18 +61,30 @@ Timeline - 5 weeks total
     * Make final report accessible
     
     * ICT Baseline Example videos (time permitting)
+    
+    * Practice with acessibility checkers
 
   Background Research - 1 week, joint effort
   
     * Look up how checkers work
     
-    * Request/Get access to checkers
+    * Request/Get access to checkers (out of our control)
     
-      - Overcompensate
+      - Overcompensate!
      
       - SortSite (yes!), WAVE, Accessibility Insights, SiteImprove, Deque Axe, etc?
+      
+      - Allot time for ESD to install software
+      
+  * Consider only "spidering" checkers, as opposed to "page-by-page" checkers
+  
+    - WAVE, Accessibility Insights = page-by-page
     
-    * Look at previous reports
+    - Spidering tools = SortSite, SiteImprove
+    
+  * Selenium/Axe = open-source spidering tool
+    
+   * Look at previous reports
     
     
   Evaluation Setup - 2 weeks 
