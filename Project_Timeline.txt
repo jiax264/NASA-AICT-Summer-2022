@@ -1,1 +1,110 @@
-Time
+* Names to actions!
+
+* WAC = web accessibility checker
+
+* (Owen) = Owen does it
+
+* (Rio) = Rio does it
+
+* (Owen or Rio) = one of us
+
+* (Owen and Rio) = email correspondence
+
+* (Owen or Rio, but separately) = do individually, but meet later in Teams to discuss findings
+
+* (Owen and Rio together) = do work while meeting in Teams
+    
+    
+Timeline - 5 weeks total
+
+  Background Research/Acquisition (6/27-7/1)
+ 
+    * (6/27 - 7/1) Play around with SortSite and Accessibility Insights (Rio)
+ 
+    * (6/27 - 7/1) Get software (Owen)
+ 
+    * (6/27) Look up WACs to assess (Owen and Rio, but separately)
+    
+          - SortSite (yes!), WAVE, Accessibility Insights, SiteImprove, Deque Axe, etc?
+          
+          - Consider only "spidering" WACs, as opposed to "page-by-page" WACs
+          
+              --> WAVE, Accessibility Insights = page-by-page
+    
+              --> Spidering tools = SortSite, SiteImprove
+              
+              --> Selenium/Axe = open-source spidering tool
+
+    * (6/27 - 6/28) Compose a WAC request email (Owen and Rio)
+    
+    * (6/28) Look at existing consumer reports (Owen and Rio, but separately)
+    
+        - https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf
+        
+        - https://www.nasa.gov/sites/default/files/atoms/files/22_20220420_nasa-symposiumnnsa_pae_aoa_methodology_final.pdf
+   
+   
+    * (6/29 - 7/1) ICT Baseline Testing on NASA, SEWP, Section 508 websites (Owen and Rio together)    
+   
+        - Finalize websites to assess
+        
+        - Schedule meeting sometime this week
+    
+  ___________________________________________________________________________________________________________________________  
+    
+  Evaluation Setup - 2 weeks (7/5 - 7/8, 7/11 - 7/15)
+  
+  (7/5 - 7/8)
+   
+    * (7/5) Brainstorm research question(s) (Owen and Rio, together)
+   
+      - "How helpful is the checker towards manual testing?"
+     
+      - "How do these checkers work? Are there certain scenarios where 1 > other?"
+      
+    * (7/6) Delve deeper into WACs (Owen and Rio, but separately)
+         
+    * (7/6 - 7/8) Set up performance evaluation
+   
+      - Create outline for final report
+     
+      - Looking for:
+     
+         1) Usability of checker
+         
+         2) Functionality of checker
+         
+         3) Amount of error coverage
+         
+         4) Types of errors found
+         
+       - Quantitative/qualitative way to present findings
+    
+   (7/11 - 7/15)
+ 
+ ___________________________________________________________________________________________________________________________
+ 
+  Performance Evaluation - (7/18 - 7/22)
+  
+   * Use checkers on websites
+   
+   * Collect data
+   
+     - See "Set up performance evaluation" above
+   
+ ___________________________________________________________________________________________________________________________
+   
+  Analysis and Conclusion - (7/25 - 7/29 and 8/1 - 8/5)
+  
+  (7/25 - 7/29) 
+  
+    * Analyze data
+    
+    * Write final report
+    
+       --> Word, PDF, Slidedoc
+       
+  (8/1 - 8/5)
+  
+      * Present!
+
