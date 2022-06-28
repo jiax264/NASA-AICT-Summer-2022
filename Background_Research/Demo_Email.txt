@@ -1,8 +1,8 @@
-[Insert company name],
+[insert company name],
 
-I hope this email finds you well. My partner, Rio Jia, and I, Owen Chong, are summer interns at NASA's Goddard Space Flight Center (GSFC) in Greenbelt, Maryland. 
+I hope this email finds you well. My colleague, Rio Jia, and I, Owen Chong, are summer interns at NASA's Goddard Space Flight Center (GSFC) in Greenbelt, Maryland. 
 
-Our intern project pertains to IT accessibility, Section 508, and WCAG 2.0 conformance.
+Our internship pertains to IT accessibility, Section 508, and WCAG 2.0 conformance. 
 
 We're producing a performance assessment on several web accessibility checkers. As such, we'd like to request a 30-day fully functioning trial of your product.
 
@@ -10,8 +10,10 @@ In September, our report will be presented government-wide and used as a referen
 
 Please let us know if you are interested in this opportunity. We look forward to hearing from you soon.
 
+
 Sincerely,
 
 Owen Chong (owen.s.chong@nasa.gov, ochong@mail.umw.edu)
 
 Rio Jia (xueyuan.jia@nasa.gov, xueyuan.jia@vanderbilt.edu)
+
