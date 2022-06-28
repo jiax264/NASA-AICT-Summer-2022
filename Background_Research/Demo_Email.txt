@@ -2,18 +2,16 @@
 
 I hope this email finds you well. My partner, Rio Jia, and I, Owen Chong, are summer interns at NASA's Goddard Space Flight Center (GSFC) in Greenbelt, Maryland. 
 
-We have been learning about IT accessibility, Section 508, and WCAG 2.0 conformance for the past few weeks as part of our internship. 
+Our intern project pertains to IT accessibility, Section 508, and WCAG 2.0 conformance.
 
-For our project, we are producing a performance assessment on several web accessibility checkers. 
+We're producing a performance assessment on several web accessibility checkers. As such, we'd like to request a 30-day fully functioning trial of your product.
 
-We've identified your product as a potential subject for our report, and we'd like to request a 30-day fully functioning trial of your product.
-
-The report will be submitted to NASA at-large and may become the primary product that NASA purchases in 3 months to implement web accessibility.
+In September, our report will be presented government-wide and used as a reference for acquiring new web accessibility checkers.
 
 Please let us know if you are interested in this opportunity. We look forward to hearing from you soon.
 
 Sincerely,
 
-Owen Chong (owen.s.chong@nasa.gov, oschong2@gmail.com)
+Owen Chong (owen.s.chong@nasa.gov, ochong@mail.umw.edu)
 
 Rio Jia (xueyuan.jia@nasa.gov, xueyuan.jia@vanderbilt.edu)
