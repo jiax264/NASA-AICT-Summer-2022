@@ -15,6 +15,34 @@ Objectives
   * Research and assess several WACs
   
   * Share general information on WACs, manual website testing, and web accessbility
+  
+  Top Priority WACs
+  
+    * Tenon (demo)
+    
+    * AccessibilityOz (demo)
+    
+    * SiteImprove (demo)
+    
+    * SilkTide (demo)
+    
+    * SortSite (already have)
+    
+    * DynoMapper (free trial)
+    
+    * pa11y/koa11y (free trial)
+    
+  Secondary WACs
+  
+    * AMP (demo)
+    
+    * Axe Monitor (demo)
+    
+    * PopeTech/WAVE (demo)
+    
+    * Little Forest (demo)
+    
+    * Odellus (demo)
 _______________________________________________________________________________________________________________________________
 
 Tasks
@@ -66,13 +94,17 @@ Timeline - 5 weeks total
               
               --> Selenium/Axe = open-source spidering tool
               
-    * (Tuesday 6/28) compose email/msg to get free trial from vendors (Owen)
+    (6/28)
+              
+      * Request demos from vendors (Owen and Rio split)
     
-    * (Tuesday 6/28) send out msg to software companies (Owen & Rio split) 
+        - Rio: Tenon, AccessibilityOz, SiteImprove, SilkTide
+        
+        - Owen: AMP, Axe Monitor, PopeTech/WAVE, Little Forest, Odellus
     
-    * (Tuesday 6/28–Wednesday 6/29) download (Owen) & play w/ sortsite (Owen and Rio)
+      * Download and play with SortSite, pa11y, and koa11y (Owen and Rio)
     
-    * (Wednesday 6/29–Thursday 6/30) Download and play with some of the open source checkers (Owen and Rio)
+    * (Wednesday 6/29–Thursday 6/30) 
     
     * (Thursday 6/30) read existing consumer reports & get familiarized w format (Owen and Rio)
             https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf 
