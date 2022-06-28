@@ -8,7 +8,7 @@ As interns, we are required to do a project related to our internship; as such, 
 
 We've identified your product as a potential subject for our report, and we'd like to request a demo of your product.
 
-The report will be submitted to NASA at-large and may becomes the primary product NASA uses for web accessibility.
+The report will be submitted to NASA at-large and may become the primary product NASA uses for web accessibility.
 
 Please let us know if you have any questions. We look forward to hearing from you.
 
