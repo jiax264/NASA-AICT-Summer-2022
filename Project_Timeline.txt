@@ -8,67 +8,60 @@
 
 * (Owen or Rio) = one of us
 
-* (Owen and Rio) = email correspondence
+* (Owen and Rio) = do individually, then email correspondence
 
-* (Owen or Rio, but separately) = do individually, but meet later in Teams to discuss findings
+* (Owen and Rio split) = do individually, split work in half (easy stuff so no extensive communication afterwards) 
 
-* (Owen and Rio together) = do work while meeting in Teams
+* (Owen and Rio, but separately) = do individually, then meet in Teams to discuss findings
+
+* (Owen and Rio together) = do work together while meeting in Teams
     
     
 Timeline - 5 weeks total
 
   Background Research/Acquisition (6/27-7/1)
- 
-    * (6/27 - 7/1) Play around with SortSite and Accessibility Insights (Rio)
- 
-    * (6/27 - 7/1) Get software (Owen)
- 
-    * (6/27) Look up WACs to assess (Owen and Rio, but separately)
-    
-          - SortSite (yes!), WAVE, Accessibility Insights, SiteImprove, Deque Axe, etc?
+  
+    * (Monday 6/27) determine which companies to reach out to / which checkers to investigate (Owen and Rio) 
+        - SortSite (yes!), WAVE, Accessibility Insights, SiteImprove, Deque Axe, etc?
           
-          - Consider only "spidering" WACs, as opposed to "page-by-page" WACs
+        - Consider only "spidering" WACs, as opposed to "page-by-page" WACs
           
               --> WAVE, Accessibility Insights = page-by-page
     
               --> Spidering tools = SortSite, SiteImprove
               
               --> Selenium/Axe = open-source spidering tool
-
-    * (6/27 - 6/28) Compose a WAC request email (Owen and Rio)
-    
-    * (6/28) Look at existing consumer reports (Owen and Rio, but separately)
-    
-        - https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf
-        
-        - https://www.nasa.gov/sites/default/files/atoms/files/22_20220420_nasa-symposiumnnsa_pae_aoa_methodology_final.pdf
-   
-   
-    * (6/29 - 7/1) ICT Baseline Testing on NASA, SEWP, Section 508 websites (Owen and Rio together)    
-   
-        - Finalize websites to assess
-        
-        - Schedule meeting sometime this week
-    
+    * (Tuesday 6/28) compose email/msg to get free trial from vendors (Owen)
+    * (Tuesday 6/28) send out msg to software companies (Owen & Rio split) 
+    * (Tuesday 6/28–Wednesday 6/29) download (Owen) & play w/ sortsite (Owen and Rio) 
+    * (Wednesday 6/29–Thursday 6/30) Download and play with some of the open source checkers (Owen and Rio)
+    * (Thursday 6/30) read existing consumer reports & get familiarized w format (Owen and Rio)
+            https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf 
+            https://www.nasa.gov/sites/default/files/atoms/files/22_20220420_nasa-symposiumnnsa_pae_aoa_methodology_final.pdf 
+            https://ntrs.nasa.gov/api/citations/20205008713/downloads/Acoustics_AoA_TWG_VanZante_Final.pdf 
+    * (Thursday 6/30–Friday July 1) Perform manual testing on NASA, SEWP, Section 508 to have standard to compare against (Owen & Rio together) 
+        - Finalize sites to test
+        - schedule meeting(s) w/ each other    
   ___________________________________________________________________________________________________________________________  
     
   Evaluation Setup - 2 weeks (7/5 - 7/8, 7/11 - 7/15)
   
   (7/5 - 7/8)
-   
-    * (7/5) Brainstorm research question(s) (Owen and Rio, together)
+  
+    * Depending on when get access to checkers, get familiarized w/ them as they come in (Owen and Rio, but separately)
+    * Main task this week is to determine what the report will assess (Owen and Rio)
+        * This will be informed by what functionality we observe in the different checkers 
+        * Key thing is to not feel boxed in by the categories we set at this point, but do brainstorm what factors/features would be impt to look at 
+
+    * Potential research question(s)
    
       - "How helpful is the checker towards manual testing?"
      
       - "How do these checkers work? Are there certain scenarios where 1 > other?"
-      
-    * (7/6) Delve deeper into WACs (Owen and Rio, but separately)
          
-    * (7/6 - 7/8) Set up performance evaluation
-   
-      - Create outline for final report
+    * Set up performance evaluation / Create outline for final report
      
-      - Looking for:
+      - Looking for (will add more):
      
          1) Usability of checker
          
@@ -79,26 +72,19 @@ Timeline - 5 weeks total
          4) Types of errors found
          
        - Quantitative/qualitative way to present findings
-    
-   (7/11 - 7/15)
- 
  ___________________________________________________________________________________________________________________________
  
   Performance Evaluation - (7/18 - 7/22)
   
-   * Use checkers on websites
-   
-   * Collect data
-   
-     - See "Set up performance evaluation" above
-   
+   * Use checkers on websites (a lot of this work of getting acquainted with the checkers and their functionality should have already been accomplished in the weeks previously so this should not take super long) 
+   * Collect data & observations 
  ___________________________________________________________________________________________________________________________
    
   Analysis and Conclusion - (7/25 - 7/29 and 8/1 - 8/5)
   
   (7/25 - 7/29) 
   
-    * Analyze data
+    * Organize & Analyze data
     
     * Write final report
     
