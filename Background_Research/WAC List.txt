@@ -1,5 +1,7 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! = One to look at
 
+What are our criteria for selecting WACs???
+
 __________________________________________________________________________________________________________________________________________________________
 
 WACs ALREADY REQUIRED
@@ -121,8 +123,15 @@ MakeSense https://mk-sense.com/make-sense-and-wcag-success-criteria/
    
 __________________________________________________________________________________________________________________________________________________________ 
    
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+   
 LittleForest https://littleforest.co.uk/feature/web-accessibility/
+
    * does entire site 
+   
+   * Errors displayed in table by site, type of error, and specific content
+   
+   * British company = security issues?
    
 __________________________________________________________________________________________________________________________________________________________
    
@@ -130,7 +139,13 @@ dubbot https://dubbot.com/features/index.html
 
 __________________________________________________________________________________________________________________________________________________________
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 html validator https://www.htmlvalidator.com/ 
+
+	* Has some accessibility features --> https://www.htmlvalidator.com/current/docs/engine_accessibility_node.htm
+	
+	* Looks pretty technical, may lower usability
 
 __________________________________________________________________________________________________________________________________________________________
 
