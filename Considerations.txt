@@ -1,21 +1,41 @@
-﻿https://karlgroves.com/choosing-an-automated-accessibility-testing-tool-13-questions-you-should-ask/ 
+https://karlgroves.com/choosing-an-automated-accessibility-testing-tool-13-questions-you-should-ask/ 
+ 
 * usability
+
 * results of tool
+
 * overly conservative or liberal with throwing errors? 
+
 * is tool testing the browser DOM
-* https://www.mothereffingtoolconfuser.com/ 
-   * If the tool finds errors on this page, it is not testing the DOM. 
+
+___________________________________________________________________________________________________________________________________________________________________
+
+https://www.mothereffingtoolconfuser.com/ 
+
+* If the tool finds errors on this page, it is not testing the DOM. 
+
 * speed of spidering 
+
 * ability to perform scheduled monitoring?
+
 * tool configurable so only test new pages and not retest pages that haven't changed? 
+
 * does tool provide manual testing guidance for things the automated checker does not cover?
+
 * repetitive or concise reporting?
+
 * can test logic be modified or extended easily?
 
+___________________________________________________________________________________________________________________________________________________________________
 
 https://www.w3.org/WAI/test-evaluate/tools/selecting/ 
+
 * type of tool: extensions, command line tool, desktop app, online service etc
+
 * supported formats: html, wai-aria, css, svg, etc
+
 * assists by reports, step by step eval, in page feedback, page transformation, etc
+
 * scope of how much auto checks
+
 * how accessible tool is itself to someone w a disability
