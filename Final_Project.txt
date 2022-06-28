@@ -37,53 +37,104 @@ ________________________________________________________________________________
 
 Timeline
 
+* (Owen) = Owen does it
 
-_______________________________________________________________________________________________________________________________
+* (Rio) = Rio does it
 
+* (Owen or Rio) = one of us
 
+* (Owen and Rio) = do individually, then email correspondence
 
-ELABORATE ON OBJECTIVES, RATIONALE, AND CONSIDERATIONS
+* (Owen and Rio split) = do individually, split work in half (easy stuff so no extensive communication afterwards) 
 
-  - Purpose of project
+* (Owen and Rio, but separately) = do individually, then meet in Teams to discuss findings
 
-Next Steps
-
-  * Break down tasks/timeline in-depth (dates and names)
+* (Owen and Rio together) = do work together while meeting in Teams
   
-    - Get READY for presentation to Betsy
+Timeline - 5 weeks total
+
+  Background Research/Acquisition (6/27-7/1)
   
-  * Research and get access to checkers
-  
-    - Look at ComplianceSheriff and Andi (used for Trusted Tester)
+    * (Monday 6/27) determine which companies to reach out to / which checkers to investigate (Owen and Rio) 
+        - SortSite (yes!), WAVE, Accessibility Insights, SiteImprove, Deque Axe, etc?
+          
+        - Consider only "spidering" WACs, as opposed to "page-by-page" WACs
+          
+              --> WAVE, Accessibility Insights = page-by-page
     
-  * Work on report outline (put in GitHub)
+              --> Spidering tools = SortSite, SiteImprove
+              
+              --> Selenium/Axe = open-source spidering tool
+    * (Tuesday 6/28) compose email/msg to get free trial from vendors (Owen)
+    
+    * (Tuesday 6/28) send out msg to software companies (Owen & Rio split) 
+    
+    * (Tuesday 6/28–Wednesday 6/29) download (Owen) & play w/ sortsite (Owen and Rio)
+    
+    * (Wednesday 6/29–Thursday 6/30) Download and play with some of the open source checkers (Owen and Rio)
+    
+    * (Thursday 6/30) read existing consumer reports & get familiarized w format (Owen and Rio)
+            https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf 
+            https://www.nasa.gov/sites/default/files/atoms/files/22_20220420_nasa-symposiumnnsa_pae_aoa_methodology_final.pdf 
+            https://ntrs.nasa.gov/api/citations/20205008713/downloads/Acoustics_AoA_TWG_VanZante_Final.pdf 
+            
+    * (Thursday 6/30–Friday July 1) Perform manual testing on NASA, SEWP, Section 508 to have standard to compare against 
+    (Owen & Rio together) 
+        - Finalize sites to test
+        - schedule meeting(s) w/ each other    
+    
+    
+  Evaluation Setup - 2 weeks (7/5 - 7/8, 7/11 - 7/15)
+  
+  (7/5 - 7/8)
+  
+    * Depending on when get access to checkers, get familiarized w/ them as they come in (Owen and Rio, but separately)
+    
+    * Main task this week is to determine what the report will assess (Owen and Rio)
+        - This will be informed by what functionality we observe in the different checkers 
+        - Key thing is to not feel boxed in by the categories we set at this point, but do brainstorm what 
+        factors/features would be impt to look at 
 
-______________________________________________________________________________________________________________________________
-
-Rationale
-
-
-
-______________________________________________________________________________________________________________________________
-
-Objectives
-
+    * Potential research question(s)
+   
+      - "How helpful is the checker towards manual testing?"
+     
+      - "How do these checkers work? Are there certain scenarios where 1 > other?"
+         
+    * Set up performance evaluation / Create outline for final report
+     
+      - Looking for (will add more):
+     
+         1) Usability of checker
+         
+         2) Functionality of checker
+         
+         3) Amount of error coverage
+         
+         4) Types of errors found
+         
+       - Quantitative/qualitative way to present findings
+ ___________________________________________________________________________________________________________________________
  
-
-______________________________________________________________________________________________________________________________
-
-
-Considerations
-
-  * Security --> desktop > cloud
-    
-    - EX: Check if Deque is cloud-based
-    
-    - Cloud-based may need access to internal NASA servers, potential security issue
-    
-  * Check effectiveness with responsive websites
+  Performance Evaluation - (7/18 - 7/22)
   
-  * Narrow down to automated *web* checkers 
+   * Use checkers on websites (a lot of this work of getting acquainted with the checkers and their functionality 
+   should have already been accomplished in the weeks previously so this should not take super long)
+   
+   * Collect data & observations 
+ ___________________________________________________________________________________________________________________________
+   
+  Analysis and Conclusion - (7/25 - 7/29 and 8/1 - 8/5)
   
- ______________________________________________________________________________________________________________________________
-
+  (7/25 - 7/29) 
+  
+    * Organize & Analyze data
+    
+    * Write final report
+    
+       --> Word, PDF, Slidedoc
+       
+  (8/1 - 8/5)
+  
+      * Present!
+_______________________________________________________________________________________________________________________________
