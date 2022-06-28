@@ -1,5 +1,7 @@
 Report on Automated Accessibility Checkers
 
+PUT RATIONALE AND OBJECTIVES HERE
+
 Next Steps
 
   * Break down tasks/timeline in-depth (dates and names)
