@@ -16,7 +16,19 @@
 
 * (Owen and Rio together) = do work together while meeting in Teams
     
-    
+Rationale
+
+ * Accessibility checkers will catch and miss certain things
+ 
+ * Important to know/measure how "useful" accessibility checkers are
+
+Objectives
+
+  * Produce report on different automated accessibility checkers and differences between them 
+  
+  * sharing info about what automated tests cover vs what they don't and resources for manual tests 
+ 
+  
 Timeline - 5 weeks total
 
   Background Research/Acquisition (6/27-7/1)
