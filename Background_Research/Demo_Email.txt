@@ -1,0 +1,19 @@
+[Insert company name],
+
+I hope this emails finds you well. I'm Owen Chong, a summer intern at NASA's Goddard Space Flight Center (GSFC) in Greenbelt, Maryland. 
+
+I've been learning about IT accessibility, Section 508, and WCAG 2.0 for the past few weeks as part of my internship. 
+
+As interns, we are required to do a project related to our internship; as such, my fellow intern Rio Jia and I are producing a performance assessment on several web accessibility checkers. 
+
+We've identified your product as a potential subject for our report, and we'd like to request a demo of your product.
+
+The report will be submitted to NASA at-large and may becomes the primary product NASA uses for web accessibility.
+
+Please let us know if you have any questions. We look forward to hearing from you.
+
+Sincerely,
+
+Owen Chong  [NASA email and personal email]
+
+Rio Jia [NASA email and personal email]
