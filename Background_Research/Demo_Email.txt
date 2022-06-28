@@ -4,7 +4,7 @@ I hope this email finds you well. My colleague, Rio Jia, and I, Owen Chong, are 
 
 Our internship pertains to IT accessibility, Section 508, and WCAG 2.0 conformance. 
 
-We're producing a performance assessment on several web accessibility checkers. As such, we'd like to request a 30-day fully functioning trial of your product.
+We're producing a performance assessment on several web accessibility checkers. As such, we'd like to request a 30-day fully functioning trial of [insert product name].
 
 In September, our report will be presented government-wide and used as a reference for acquiring new web accessibility checkers.
 
