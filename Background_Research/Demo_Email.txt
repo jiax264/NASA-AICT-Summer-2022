@@ -2,7 +2,7 @@
 
 I hope this email finds you well. My partner, Rio Jia, and I, Owen Chong, are summer interns at NASA's Goddard Space Flight Center (GSFC) in Greenbelt, Maryland. 
 
-We have been learning about IT accessibility, Section 508, and WCAG 2.0 for the past few weeks as part of our internship. 
+We have been learning about IT accessibility, Section 508, and WCAG 2.0 conformance for the past few weeks as part of our internship. 
 
 For our project, we are producing a performance assessment on several web accessibility checkers. 
 
