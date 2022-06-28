@@ -16,6 +16,8 @@ Next Steps
     
   * Work on report outline (put in GitHub)
 
+______________________________________________________________________________________________________________________________
+
 Rationale
 
  * Accessibility checkers will catch and miss certain things
@@ -27,6 +29,10 @@ ________________________________________________________________________________
 Objectives
 
   * Produce report for NASA to potentially replace SortSite
+  
+  * Research and assess several WACs
+  
+  * Share general information on WACs, manual website testing, and web accessbility
  
 
 ______________________________________________________________________________________________________________________________
