@@ -20,10 +20,6 @@ Objectives
   
 _______________________________________________________________________________________________________________________________
 
-Tasks
-
-_______________________________________________________________________________________________________________________________
-
 Deliverables (will be accessible)
 
   * Written report in Word or PDF 
@@ -125,17 +121,19 @@ Resources Required
    
 _______________________________________________________________________________________________________________________________
 
-What We're Measuring
+WAC Requirements
 
-1) Usability of checker
+1) Is product easy to use? Does it have a simple user interface?
 
-2) 508 Compliant
+2) Is it software-based/downloadable on a desktop (preferred)? If not (cloud-based), has it gone through the FEDRAMP security process?
 
-3) Assistance to Manual Testing
+3) Does the software provide guidance on solving issues? Is it designed to accompany (as opposed to replace) manual testing?
 
-4) Amount of error coverage
+4) Is the software and/or user interface 508 compliant?
 
-5) Types of errors found
+5) Does the software base its checks on Section 508/WCAG 2.0?
+
+6) What makes your product stand out? What's your favorite feature of the product?
 _______________________________________________________________________________________________________________________________
 
 Timeline
