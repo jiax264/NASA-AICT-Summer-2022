@@ -46,6 +46,10 @@ Objectives
   
     * AMP (demo) (contacted)
     
+      - Responded with Elev11n Community, a page-by-page cloud-based checker (NOT what we want)
+      
+        --> Reach out about AMP OR move on
+    
     * Axe Monitor (demo) (contacted)
     
     * PopeTech/WAVE (demo) (contacted)
