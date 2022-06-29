@@ -151,12 +151,16 @@ Timeline - 5 weeks total
     
       * Download and play with SortSite, pa11y, and koa11y (Owen and Rio)
     
-    * (Wednesday 6/29–Thursday 6/30) 
+    (6/29)
     
-    * (Thursday 6/30) read existing consumer reports & get familiarized w format (Owen and Rio)
-            https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf 
-            https://www.nasa.gov/sites/default/files/atoms/files/22_20220420_nasa-symposiumnnsa_pae_aoa_methodology_final.pdf 
-            https://ntrs.nasa.gov/api/citations/20205008713/downloads/Acoustics_AoA_TWG_VanZante_Final.pdf 
+      * Finalize websites and requirements (LITERALLY, what do we want?)
+      
+      * Read existing consumer reports & get familiarized w format (Owen and Rio)
+        - https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf 
+        
+        - https://www.nasa.gov/sites/default/files/atoms/files/22_20220420_nasa-symposiumnnsa_pae_aoa_methodology_final.pdf 
+        
+        - https://ntrs.nasa.gov/api/citations/20205008713/downloads/Acoustics_AoA_TWG_VanZante_Final.pdf 
             
     * (Thursday 6/30–Friday July 1) Perform manual testing on NASA, SEWP, Section 508 to have standard to compare against 
     (Owen & Rio together) 
