@@ -1,0 +1,19 @@
+These are my notes from the review of Honeywell toxic gas detection ACR
+
+They're testing the visualization software used to identify toxic gas
+
+If something doesn't apply with 508, make sure to say "N/A" instead of "Supports"
+
+1.3.1 - Info and Relationships
+
+    * Software was created in WindowsXP, so ARIA is not applicable
+
+    * Does not support ARIA but relationships are tagged and JAWS reads it fine
+    
+        - ARIA can't be used in software
+        
+        - Partially supported?
+    
+    * AccessibilityInsights shows relationships in software
+        
+    
