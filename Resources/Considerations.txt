@@ -39,3 +39,10 @@ https://www.w3.org/WAI/test-evaluate/tools/selecting/
 * scope of how much auto checks
 
 * how accessible tool is itself to someone w a disability
+__________________________________________________________________________________________________
+https://sparkbox.com/foundry/pa11y_website_accessibility_audit_website_accessibility_checker 
+https://sparkbox.com/foundry/website_accessibility_audit_website_accessibility_checker_evaluation 
+ease of installation
+ease of use
+accuracy of feedback
+clarity of feedback
