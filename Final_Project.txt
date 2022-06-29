@@ -91,9 +91,37 @@ Resources Required
  
  Websites
  
-    * https://nasa.gov
+    * NASA home page --> https://nasa.gov
     
-    * https://www.section508.gov/
+    * NASA STEM Engagement --> https://www.nasa.gov/stem
+    
+    * NASA Benefits to You --> https://www.nasa.gov/topics/benefits/index.html
+    
+    * NASA Live --> https://www.nasa.gov/nasalive
+    
+    * NASA Missions --> https://www.nasa.gov/missions
+    
+    * NASA About NASA --> https://www.nasa.gov/about/index.html
+    
+    * Section 508 home page --> https://www.section508.gov/
+    
+    * Section 508 Policy and Management --> https://www.section508.gov/manage/
+    
+    * Section 508 Acquisition --> https://www.section508.gov/buy-sell/
+    
+    * Section 508 Content Creation --> https://www.section508.gov/create/
+    
+    * Section 508 Design and Develop --> https://www.section508.gov/develop/
+    
+    * Section 508 Testing --> https://www.section508.gov/test/
+    
+    * Section 508 Training, Tools, and Events --> https://www.section508.gov/training/
+   
+    * ICT Baseline home page --> https://ictbaseline.access-board.gov/
+    
+    * SEWP home page --> https://www.sewp.nasa.gov/
+    
+    * SEWP Info Center --> https://www.sewp.nasa.gov/info_center.shtml
    
 _______________________________________________________________________________________________________________________________
 
