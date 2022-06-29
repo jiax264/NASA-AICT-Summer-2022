@@ -130,7 +130,9 @@ Timeline - 5 weeks total
 
   Background Research/Acquisition (6/27-7/1) (CALL ESD ABOUT SOFTWARE)
   
-    * (Monday 6/27) determine which companies to reach out to / which checkers to investigate (Owen and Rio) 
+    (6/27)
+    
+      * determine which companies to reach out to / which checkers to investigate (Owen and Rio) 
         - SortSite (yes!), WAVE, Accessibility Insights, SiteImprove, Deque Axe, etc?
           
         - Consider only "spidering" WACs, as opposed to "page-by-page" WACs
@@ -143,29 +145,40 @@ Timeline - 5 weeks total
               
     (6/28)
               
-      * Request demos from vendors (Owen and Rio split)
+      * Request demos from vendors (Owen and Rio split) [DONE!]
     
         - Rio: Tenon, AccessibilityOz, SiteImprove, SilkTide
         
         - Owen: AMP, Axe Monitor, PopeTech/WAVE, Little Forest, Odellus
     
-      * Download and play with SortSite, pa11y, and koa11y (Owen and Rio)
+      * Download and play with SortSite, pa11y, and koa11y (Owen and Rio) [DONE!]
+      
+
     
     (6/29)
     
       * Finalize websites and requirements (LITERALLY, what do we want?)
       
-      * Read existing consumer reports & get familiarized w format (Owen and Rio)
+      * Send websites and requirements to Little Forest and other vendors (Owen and Rio split)
+      
+      * Read existing consumer reports & get familiarized w format (Owen and Rio split)
         - https://www.nasa.gov/sites/default/files/atoms/files/aoa_neo_report_final_11082018_0.pdf 
         
         - https://www.nasa.gov/sites/default/files/atoms/files/22_20220420_nasa-symposiumnnsa_pae_aoa_methodology_final.pdf 
         
         - https://ntrs.nasa.gov/api/citations/20205008713/downloads/Acoustics_AoA_TWG_VanZante_Final.pdf 
+        
+      * Schedule follow-up meeting with Little Forest (let's get that demo!) (Rio)
+      
+      * Respond to PopeTech (Get your stuff together!) (Owen)
             
-    * (Thursday 6/30–Friday July 1) Perform manual testing on NASA, SEWP, Section 508 to have standard to compare against 
-    (Owen & Rio together) 
-        - Finalize sites to test
-        - schedule meeting(s) w/ each other    
+    (6/30) 
+    
+      * Perform manual testing on NASA, SEWP, Section 508 to have standard to compare against (Owen & Rio together) 
+   
+        - schedule meeting(s) w/ each other   
+        
+     * Send websites and requirements to Little Forest and other vendors (Owen and Rio split)
     
     
   Evaluation Setup - 2 weeks (7/5 - 7/8, 7/11 - 7/15) (CALL ESD ABOUT SOFTWARE)
