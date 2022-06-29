@@ -78,13 +78,15 @@ Resources Required
     
       - Automated testing tool
       
-      - Cloud service, issue with FEDRAMP certification (is cloud secure?)
+      - Cloud service, doesn't have FEDRAMP certification (is cloud secure?)
       
-        --> Will take lots of time, 
+        --> Will take time, but we can probably still get a demo
       
       - Checks WCAG 2.1
       
       - "Domain Discovery" = finds websites and generates reports
+      
+      - 
     
     * Odellus (demo) (contacted)
     
@@ -95,7 +97,19 @@ Resources Required
     
     * https://www.section508.gov/
    
+_______________________________________________________________________________________________________________________________
 
+What We're Measuring
+
+1) Usability of checker
+
+2) 508 Compliant
+
+3) Assistance to Manual Testing
+
+4) Amount of error coverage
+
+5) Types of errors found
 _______________________________________________________________________________________________________________________________
 
 Timeline
@@ -170,18 +184,6 @@ Timeline - 5 weeks total
       - "How do these checkers work? Are there certain scenarios where 1 > other?"
          
     * Set up performance evaluation / Create outline for final report
-     
-      - Looking for (will add more):
-     
-         1) Usability of checker
-         
-         2) 508 Compliant
-         
-         3) Functionality of checker
-         
-         4) Amount of error coverage
-         
-         5) Types of errors found
          
        - Quantitative/qualitative way to present findings
  ___________________________________________________________________________________________________________________________
