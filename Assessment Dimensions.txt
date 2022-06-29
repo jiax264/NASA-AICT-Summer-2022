@@ -1,0 +1,56 @@
+﻿Must-haves:
+* Tests against Section 508 and WCAG 2.0 standards
+* Spidering capability
+
+
+Assessment Dimensions:
+report quality
+* results consistency
+   * for the same page, should always catch the same issues if the page hasn’t changed
+* results accuracy 
+   * rate of false positives & false negatives: liberal or conservative leaning?
+* types of issues caught 
+   * impact of issue caught: is it something a human could easily detect while manually testing or is it something that would be difficult for a human to detect? With the automated checker catching this kind of issue, how much time is saved? 
+* testing the browser DOM? 
+
+
+further suggestions/feedback
+* guidance on manual testing process
+   * is tool explicit about which standards require manual testing and how to do so?
+* guidance on how to fix detected issues 
+   * rooted in the official documentation from section 508/WCAG 2.0?
+   * does it link to helpful pages? 
+   * if auto-suggestions are provided, are these reflective of good practice? 
+
+
+report export
+* What formats are available for export for sharing results with developers and others?
+* does exported report contain all the information provided in the in-app experience? 
+* how easy is it to navigate the UI of the exported report? 
+
+
+report efficiency
+* speed of spidering and report generation 
+
+
+UI
+* accessibility/508 compliance of tool itself 
+* complexity of installation, set up, and use 
+   * is interface intuitive?
+* readability of documentation
+* readability/clarity of report
+   * repetitive vs concise reporting
+      * if a site uses a template for each page, tool only reports the issues once instead of doing so for every page that uses that template 
+
+
+Additional Capabilities
+* ability to perform scheduled monitoring 
+   * only tests pages that have changed since the last test to improve efficiency 
+* ability to test internal or password protected sites 
+* ability to control link depth for spidering 
+* ability to test form actions?
+* what other settings/configurations does it offer?
+
+
+Work for the vendor
+* if tool is cloud based service, FedRAMP certified? If not, must go through that process.
