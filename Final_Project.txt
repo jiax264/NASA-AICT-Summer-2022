@@ -39,6 +39,8 @@ Objectives
       - Output is a long HTML file of errors, warnings, and notices
       
       - Catches HTML issues and indicates where in the HTML the issue is
+      
+      - Only caught one error, two notices on the NASA home page :/
     
   Secondary WACs
   
