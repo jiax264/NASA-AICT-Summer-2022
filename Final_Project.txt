@@ -30,7 +30,15 @@ Objectives
     
     * DynoMapper (free trial)
     
-    * pa11y/koa11y (free trial)
+    * pa11y (free trial)
+    
+    * Koa11y (free trial)
+    
+      - Downloaded onto computer (Koa11y.exe file). Paste URL into pop-up window and get your results
+      
+      - Output is a long HTML file of errors, warnings, and notices
+      
+      - Catches HTML issues and indicates where in the HTML the issue is
     
   Secondary WACs
   
