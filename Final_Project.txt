@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 Resources Required 
 
-  Top Priority WACs
+  WACs (CALL ESD ONCE THE FINAL WACs ARE CHOSEN)
   
     * Tenon (demo)
     
@@ -61,34 +61,32 @@ Resources Required
       - Catches HTML issues and indicates where in the HTML the issue is
       
       - Only caught one error, two notices on the NASA home page :/
-    
-  Secondary WACs
   
-    * AMP (demo) (contacted)
-    
-      - Responded with Elev11n Community, a page-by-page cloud-based checker (NOT what we want)
-      
-        --> Reach out about software-based checker OR move on
-    
-    * Axe Monitor (demo) (contacted)
-    
-    * PopeTech/WAVE (demo) (contacted)
-    
-    * Little Forest (demo) (contacted)
-    
-      - Automated testing tool
-      
-      - Cloud service, doesn't have FEDRAMP certification (is cloud secure?)
-      
-        --> Will take time, but we can probably still get a demo
-      
-      - Checks WCAG 2.1
-      
-      - "Domain Discovery" = finds websites and generates reports
-      
-      - 
-    
-    * Odellus (demo) (contacted)
+   * AMP (demo) (contacted)
+
+     - Responded with Elev11n Community, a page-by-page cloud-based checker (NOT what we want)
+
+       --> Reach out about software-based checker OR move on
+
+   * Axe Monitor (demo) (contacted)
+
+   * PopeTech/WAVE (demo) (contacted)
+
+   * Little Forest (demo) (contacted)
+
+     - Automated testing tool
+
+     - Cloud service, doesn't have FEDRAMP certification (is cloud secure?)
+
+       --> Will take time, but we can probably still get a demo
+
+     - Checks WCAG 2.1
+
+     - "Domain Discovery" = finds websites and generates reports
+
+     - GET THEM: sites (PRIMARY) and requirements (SECONDARY)
+
+   * Odellus (demo) (contacted)
     
  
  Websites
