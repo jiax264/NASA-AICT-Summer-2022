@@ -16,6 +16,8 @@ Objectives
   
   * Share general information on WACs, manual website testing, and web accessbility
   
+  * WAC must be software and spiderable
+  
   Top Priority WACs
   
     * Tenon (demo)
@@ -55,6 +57,8 @@ Objectives
     * PopeTech/WAVE (demo) (contacted)
     
     * Little Forest (demo) (contacted)
+    
+      - 
     
     * Odellus (demo) (contacted)
 _______________________________________________________________________________________________________________________________
