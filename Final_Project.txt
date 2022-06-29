@@ -82,9 +82,19 @@ Resources Required
       
         --> Will take lots of time, 
       
-      - 
+      - Checks WCAG 2.1
+      
+      - "Domain Discovery" = finds websites and generates reports
     
     * Odellus (demo) (contacted)
+    
+ 
+ Websites
+ 
+    * https://nasa.gov
+    
+    * https://www.section508.gov/
+   
 
 _______________________________________________________________________________________________________________________________
 
