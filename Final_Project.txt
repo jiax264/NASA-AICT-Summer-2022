@@ -58,6 +58,12 @@ Objectives
     
     * Little Forest (demo) (contacted)
     
+      - Automated testing tool
+      
+      - Cloud service, issue with FEDRAMP certification (is cloud secure?)
+      
+        --> Will take lots of time, 
+      
       - 
     
     * Odellus (demo) (contacted)
@@ -158,11 +164,13 @@ Timeline - 5 weeks total
      
          1) Usability of checker
          
-         2) Functionality of checker
+         2) 508 Compliant
          
-         3) Amount of error coverage
+         3) Functionality of checker
          
-         4) Types of errors found
+         4) Amount of error coverage
+         
+         5) Types of errors found
          
        - Quantitative/qualitative way to present findings
  ___________________________________________________________________________________________________________________________
