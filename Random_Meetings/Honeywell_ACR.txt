@@ -15,5 +15,12 @@ If something doesn't apply with 508, make sure to say "N/A" instead of "Supports
         - Partially supported?
     
     * AccessibilityInsights shows relationships in software
+    
+    
+3.1.1 - Language of Page
+
+      * English isn't programatically determinable
+      
+            - NOT supported
         
     
