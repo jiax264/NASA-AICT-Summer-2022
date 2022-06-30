@@ -22,11 +22,11 @@ further suggestions/feedback
    * does it link to helpful pages? 
    * if auto-suggestions are provided, are these reflective of good practice? 
 
-
-report export
-* What formats are available for export for sharing results with developers and others?
-* does exported report contain all the information provided in the in-app experience? 
-* how easy is it to navigate the UI of the exported report? 
+in app vs export
+* report export
+  * What formats are available for export for sharing results with developers and others?
+  * does exported report contain all the information provided in the in-app experience? 
+  * how easy is it to navigate the UI of the exported report? 
 
 
 report efficiency
@@ -43,6 +43,10 @@ UI
       * if a site uses a template for each page, tool only reports the issues once instead of doing so for every page that uses that template 
 
 
+Monitoring vs By-need Auditing 
+* if works by monitoring, can we customize the frequency and does it only test pages that have changed since the last test to improve efficiency
+
+
 Additional Capabilities
 * ability to perform scheduled monitoring 
    * only tests pages that have changed since the last test to improve efficiency 
@@ -54,3 +58,7 @@ Additional Capabilities
 
 Work for the vendor
 * if tool is cloud based service, FedRAMP certified? If not, must go through that process.
+
+
+Cost / Licensing 
+* annual subscription or by use volume, etc. 
