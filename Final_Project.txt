@@ -55,6 +55,8 @@ Resources Required
       - Monitoring is main use, but can set up accounts to be used "ad hoc" (auditing)
       
         --> Monitors every 5 days, but interval COULD be changes
+        
+        --> Could be REALLY expensive, because NASA has a lot of pages and they don't change much
     
     * SortSite (already have)
     
