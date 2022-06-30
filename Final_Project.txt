@@ -28,7 +28,7 @@ Deliverables (will be accessible)
   
   * PowerPoint
 
-_______________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________
 
 Resources Required 
 
@@ -41,6 +41,20 @@ Resources Required
     * SiteImprove (demo)
     
     * SilkTide (demo)
+    
+      - Tests mobile apps and PDFs
+      
+      - Cloud-based (FEDRAMP?)
+      
+      - Charges by page number + features wanted + additional services
+      
+      - Clearly states what it can/can't catch
+      
+      - Has task management and dashboard system (like WordPress)
+      
+      - Monitoring is main use, but can set up accounts to be used "ad hoc" (auditing)
+      
+        --> Monitors every 5 days, but interval COULD be changes
     
     * SortSite (already have)
     
@@ -134,6 +148,8 @@ WAC Requirements
 5) Does the software base its checks on Section 508/WCAG 2.0?
 
 6) What makes your product stand out? What's your favorite feature of the product?
+
+7) What does your product charge for? What services are charged?
 _______________________________________________________________________________________________________________________________
 
 WAC Criteria
@@ -151,6 +167,11 @@ WAC Criteria
 6) Cost
 
 7) Strengths and Limitations
+
+8) Testing by need (auditing, constant monitoring not too necessary)
+
+  - NASA may not have the resources/manpower to constantly review reports
+
 _______________________________________________________________________________________________________________________________
 
 Timeline
