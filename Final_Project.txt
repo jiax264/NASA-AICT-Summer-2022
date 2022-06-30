@@ -16,8 +16,6 @@ Objectives
   
   * Share general information on WACs, manual website testing, and web accessbility
   
-  * WAC must be software and spiderable
-  
 _______________________________________________________________________________________________________________________________
 
 Deliverables (will be accessible)
@@ -36,11 +34,11 @@ Resources Required
   
     * Tenon (demo)
     
-    * AccessibilityOz (demo)
+    * AccessibilityOz (demo) (MEET WITH)
     
     * SiteImprove (demo)
     
-    * SilkTide (demo)
+    * SilkTide (demo) (GET DEMO)
     
       - Tests mobile apps and PDFs
       
@@ -74,17 +72,17 @@ Resources Required
       
       - Only caught one error, two notices on the NASA home page :/
   
-   * AMP (demo) (contacted)
+   * AMP (demo) (CONTACT AGAIN)
 
      - Responded with Elev11n Community, a page-by-page cloud-based checker (NOT what we want)
 
        --> Reach out about software-based checker OR move on
 
-   * Axe Monitor (demo) (contacted)
+   * Axe Monitor/Auditor (demo) (CONTACT AGAIN)
 
-   * PopeTech/WAVE (demo) (contacted)
+   * PopeTech/WAVE (demo) (RESPOND?)
 
-   * Little Forest (demo) (contacted)
+   * Little Forest (demo) (GET DEMO)
 
      - Automated testing tool
 
@@ -237,6 +235,7 @@ Timeline - 5 weeks total
       * Schedule follow-up meeting with Little Forest (let's get that demo!) (Rio)
       
       * Respond to PopeTech (Get your stuff together!) (Owen)
+      
             
     (6/30) 
     
@@ -245,6 +244,10 @@ Timeline - 5 weeks total
         - schedule meeting(s) w/ each other   
         
      * Send websites and requirements to Little Forest and other vendors (Owen and Rio split)
+     
+     * Follow up with Axe Monitor about Axe Monitor/Auditor (Owen)
+     
+     * Follow up with LevelAccess about AMP (Owen)
     
     
   Evaluation Setup - 2 weeks (7/5 - 7/8, 7/11 - 7/15) (CALL ESD ABOUT SOFTWARE)
