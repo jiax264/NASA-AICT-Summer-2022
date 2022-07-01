@@ -53,6 +53,7 @@ Additional Capabilities
 * ability to test internal or password protected sites 
 * ability to control link depth for spidering 
 * ability to test form actions?
+* ability to test on local html and unpublished sites? 
 * what other settings/configurations does it offer?
 
 
