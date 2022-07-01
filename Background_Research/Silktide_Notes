@@ -1,0 +1,32 @@
+Silktide Meeting Notes
+
+SilkTide is a cloud-based tool, David unsure if they have worked with federal agencies before but they have gotten around firewalls and have worked with governmental organizations 
+
+cannot export their data
+
+support pdf and mobile accessibility testing
+
+recognizes that automated testing cannot pick up everything and their tool guides the user through how to manual test: suggests that manual testing be done by individuals with disabilities
+
+recommends reducing pdfs on sites and converting them to html
+
+the tool also has a task management system that can set tasks for people to fix certain accessibility issues
+
+tool has a dashboard area that shows statistics and which user is fixing what
+
+there is no restriction on the number of users using the tool at one time and is not charged by user
+
+Silktide works by monitoring. For example, restesting a site every 5 days and noting the issues. 
+
+Con—it will rescan sites that have not changed between reviews
+
+Charges by the number of pages monitored 
+
+additional ad-ons include what modules you subscribe to
+
+Dashboard with all the different sites being monitored that can encourage competition to have the most accessible site between different departments 
+
+Antonio suggests Rio and Owen to look into the pros and cons of monitoring versus auditing sites for accessibility 
+
+David will follow up with some availability for to give us a demo sometime next week; after that will provide 30 day free trial
+
