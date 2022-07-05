@@ -262,6 +262,12 @@ Timeline - 5 weeks total
   
   (7/5 - 7/8)
   
+    * Create a PowerPoint for the Section 508 PM Meeting
+    
+      - Make it accessible!
+      
+      - Discuss 508, our project (rationale, objective, next steps), and ask for insight on WACs
+  
     * Depending on when get access to checkers, get familiarized w/ them as they come in (Owen and Rio, but separately)
     
     * Main task this week is to determine what the report will assess (Owen and Rio)
