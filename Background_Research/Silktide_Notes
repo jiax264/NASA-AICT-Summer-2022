@@ -30,3 +30,79 @@ Antonio suggests Rio and Owen to look into the pros and cons of monitoring versu
 
 David will follow up with some availability for to give us a demo sometime next week; after that will provide 30 day free trial
 
+_________________________________________________________________________________________________________________________________________________________________
+
+Silktide Demo (From Chris)
+
+Agenda for Call
+
+    * Intro Convo
+    
+Features
+    
+    * Focused on consistent monitoring, but can accomodate ad hoc testing
+    
+    * Can automate checks on mobile and desktop
+    
+Intro to Silktide
+
+    * Based on number of pages, but can do unlimited testing
+    
+    * Best used for consistent testing on a certain group of webpages
+    
+    * Tests mobile accessibility to comply with WCAG 2.1
+    
+    * Runs on AWS cloud, servers hosted in NOVA
+    
+    * Look for blogs on headless browsers!
+    
+Silktide Demo
+
+    * Can view page in desktop and mobile view
+
+    * 4 modules: Content, Accessibility (WCAG 2.1 compliant), Marketing, User Experience
+    
+        - We're more focused on Content and Accessibility
+        
+        - Modules can be turned off for reporting
+        
+            --> Q + A: Less modules used = less cost
+            
+     * Silktide can be used by screen reader
+
+     * Automated Checks = tests with definitive answer
+        
+     * Assisted Checks = require element of human review
+        
+            - Assists in manual testing
+            
+     * Can review previous checks 
+        
+            - Approved checks no longer show up in test
+            
+            - Decisions can be reversed + there's a notification system
+            
+            
+     * Can test on page-by-page basis
+        
+     * Can simulate disabilities (dyslexia, color blindness, etc)
+        
+     * Scoring based on number of occurrences, WCAG violation, and severity of issue
+     
+     * Tasks page can be filtered based on website, users, etc
+
+          - Priority rating decided by Silktide
+            
+          - Can assign tasks to anyone, and anyone tagged can see whole conversation
+    
+    Content
+
+        * Show issue on page and in HTML
+
+        * Content checks come with WCAG violation, description, and help videos
+
+
+    Accessibility
+
+        * Issues show WCAG violation, description, HTML solution, troubleshooting, etc
+       
