@@ -93,9 +93,18 @@ Silktide Demo
         
             --> Q + A: Less modules used = less cost
       - can prioritize by severity of issue, number of occurences, etc. for any module
-      - will take you to the exact part on the exact page of where issue is occuring 
+      - will take you to the exact part on the exact page of where issue is occuring + show you html where issue originates
+      
+     * collaborative feature
+      - discuss tab and can @colleague to fix issue 
+      - acts as a task management platform too
+      - tasks at top show all of tasks for all of my websites in account
+      - can configure who sees which sites and which issues
+      - priority is defined by silktide algorithm
             
      * Silktide can be used by screen reader
+         - silktide does manual testing on its own platform and has users of Assistive Technology use the platoform 
+         - they do their best to make their platform accessible to all 
 
      * Automated Checks = tests with definitive answer
         
@@ -113,6 +122,14 @@ Silktide Demo
      * Can test on page-by-page basis
         
      * Can simulate disabilities (dyslexia, color blindness, etc)
+       - readibility check, can simulate dyslexia and color blindness etc 
+       - make web easier to use for everyone 
+       - make ppl understand not just about legal compliance but about inclusion! 
+       - simulation tool useful to spark discussions about inclusivity and not just compliance
+       - accessibility is extension of good user experience for everyone
+       - 1 in 5 people have disability and ppl have temporary and situational impairments like being on a phone in a noisy room for ex.
+       - about people, not legislation
+
         
      * Scoring based on number of occurrences, WCAG violation, and severity of issue
      
@@ -121,15 +138,35 @@ Silktide Demo
           - Priority rating decided by Silktide
             
           - Can assign tasks to anyone, and anyone tagged can see whole conversation
+          
+     *   We don't have to install code. Just input url and gets platform running. It runs on AWS servers. Can also apply different settings for different sites. 
     
     Content
 
         * Show issue on page and in HTML
 
         * Content checks come with WCAG violation, description, and help videos
+        
+        * accessibility not just technical concern; it's a constant iterative process always working on
+        
+        * more focused on things a non technical user can understand and fix
+         - for ex. ensure links explain their purpose 
+         show this part of wcag standard in breach of, and plain english explanation of wcag standard, also provide a tailored support video of standard in breach of
 
 
     Accessibility
 
         * Issues show WCAG violation, description, HTML solution, troubleshooting, etc
-       
+        * categorize compliance against diff success standards
+        * breakdown b/w automated and assisted checks
+        * automated checks
+           * things can check for and give definitive answer like contrast ratio failing or no alt text
+        * assisted checks
+           * need human review
+           * can't tell u if follow meaningful sequence
+           * ensure alt text is approrpirate, human needs to approve alt text
+           * give ability to manage and make decisions in platform; decision making power for assisted checks
+           * can apply different filters like A, AA, Section 508 etc 
+        * can run thru page by page and categorize by lowest scoring page; can also do single page check in platform; can also filter to mobile accessibility
+        * different levels of user permission, can track on decisions tab
+   
