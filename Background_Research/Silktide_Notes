@@ -45,8 +45,23 @@ Features
     * Can automate checks on mobile and desktop
     
 Intro to Silktide
+    * motto is "make the web a beter place"
+      * inclusive digital experience for everyone 
+    * main purpose is to make large websites better 
+    * work with ebay, disney, scope, world health organization, santander, accenture, university of oxford, texas tech, honeywell, etc. 
+    * about people, not just legislation 
+    * can test publicly available websites, websites with authenticated areas, can pre popiulate forms and get past logins and authentications, can test private content
+    * will make recommendations on how to remediate detected issues 
+    * will highlight the issue directly on the page and inform you how to fix it 
+    * in depth explanations and tailored support videos that are produced in house by silktide 
+    * dashboard that provides visibility and reporting on how all your sites are performing 
+    * idea behind consistently and periodically testing sites in intervals is that websites change a lot and want to catch issues as they're happening 
+      * ability to customize dashboard 
+    * main goal is to decomplexify complexities of section 508 compliance and WCAG guidelines 
+    * shows the impact an issue has on the end user, provides detailed explanation on why the 
+      issue is a problem and makes recommendations on how to fix it and then allows you to retest the site
 
-    * Based on number of pages, but can do unlimited testing
+    * charges based on number of pages, but can do unlimited testing/retesting 
     
     * Best used for consistent testing on a certain group of webpages
     
@@ -54,7 +69,14 @@ Intro to Silktide
     
     * Runs on AWS cloud, servers hosted in NOVA
     
-    * Look for blogs on headless browsers!
+    * Look for silktide blog post on headless browsers!
+      * A lot of the other commercial web accessbility checkers just test the underlying source code 
+         * sure, they can detect whether you have written alt text for an image or whether there's text for a link but silktide can test more than that 
+      * Silktide fully renders each page and uses headless browsers to evaluate websites. By doing so, it sees more than a traditional website scan can.
+         * can detect if keyboard navigation is working correctly, any issues on mobile
+      * Silktide sees the final finished version of the page ***key thing that separates silktide from its competitors 
+         * sees the pages with all the javascript and visual cues loaded, sees very closely to what end user sees 
+         * this feature is what sold the World Health Organization on getting silktide
     
 Silktide Demo
 
@@ -62,11 +84,16 @@ Silktide Demo
 
     * 4 modules: Content, Accessibility (WCAG 2.1 compliant), Marketing, User Experience
     
-        - We're more focused on Content and Accessibility
-        
+        - he recommends us to focus on Content and Accessibility modules
+            - he recommends us to look at content and not just accessibility because a lot of the stuff in WCAG is just bare minimum but content actually
+               also makes recommendations to support people with disabilities like spell check (which is impt for screen readers etc) 
+            - Accessibility section is more so for developers while Content > Content Accessibility is stuff non technical people can look at and assess 
+        - any module, click in can see dashboard, get overall score top left of page, progress bar, and trend analysis of how website performing over time  
         - Modules can be turned off for reporting
         
             --> Q + A: Less modules used = less cost
+      - can prioritize by severity of issue, number of occurences, etc. for any module
+      - will take you to the exact part on the exact page of where issue is occuring 
             
      * Silktide can be used by screen reader
 
