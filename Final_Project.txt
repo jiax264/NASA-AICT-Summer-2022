@@ -262,11 +262,25 @@ Timeline - 5 weeks total
   
   (7/5 - 7/8)
   
-    * Create a PowerPoint for the Section 508 PM Meeting
+  
+  (7/5)
+  
+    * Draft 508 PM PowerPoint outline
     
       - Make it accessible!
       
       - Discuss 508, our project (rationale, objective, next steps), and ask for insight on WACs
+      
+   (7/6)
+   
+     * Add content to 508 PM PowerPoint
+     
+     
+   (7/7)
+   
+     * Finalize 508 PM PowerPoint draft, make sure it's accessible
+      
+   
   
     * Depending on when get access to checkers, get familiarized w/ them as they come in (Owen and Rio, but separately)
     
@@ -284,6 +298,16 @@ Timeline - 5 weeks total
     * Set up performance evaluation / Create outline for final report
          
        - Quantitative/qualitative way to present findings
+       
+    (7/8)
+    
+      * Present 508 PM PowerPoint to Betsy/Courtney
+      
+    (7/11-7/15)
+    
+    (7/12)
+    
+      * Present 508 PM PowerPoint during PM meeting!
  ___________________________________________________________________________________________________________________________
  
   Performance Evaluation - (7/18 - 7/22)
