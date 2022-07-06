@@ -279,7 +279,6 @@ Timeline - 5 weeks total
      
      * Get list of sites to Silktide (Chris Fletcher)
      
-     * Confirm we got the Little Forest demo
      
      * Schedule meetings with PopeTech and/or Deque (TBD)
      
@@ -287,6 +286,9 @@ Timeline - 5 weeks total
    (7/7)
    
      * Finalize 508 PM PowerPoint draft, make sure it's accessible
+     
+     * Get the Little Forest demo (finally!!)
+
       
    
   
