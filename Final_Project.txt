@@ -279,7 +279,6 @@ Timeline - 5 weeks total
      
      * Get list of sites to Silktide (Chris Fletcher)
      
-     
      * Schedule meetings with PopeTech and/or Deque (TBD)
      
      
