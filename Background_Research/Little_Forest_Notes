@@ -1,9 +1,16 @@
-* They called Antonio and Betsy Antony and Betsy respectfully, lmao
+* They called Antonio and Betsy Antony and Betty respectfully, lmao
 
 Features
 
   * They're providing software? I thought it was cloud-based, I'm confused
-
+    * I think it's just a site we go on that runs our stuff on the cloud. 
+  
+  * When starting go straight to accessibility report and then overview later 
+  * according to Gavin, errors are obvious breaches of a guideline and are generally not false positives 
+      while warnings indicate potential issue that requires manual checking <-- good that it assists with manual checking 
+      
+  * can run all pages and can adjust settings to log on and get behind authentication protected sites 
+  * can also run using mobile device <-- do they mean you can use their checker on a mobile device or that it can check accessibility for a mobile device? 
   * Can manage users
   
   * Can create projects to work on certain sites
@@ -24,31 +31,49 @@ Features
       
         --> However, they've got some other platform to edit errors onsite (in progress)
   
-  * Can ignore errors to allow users to focus on other errors
+  * Can ignore errors to allow users to focus on other errors, ignored error will appear in ignored rules section and can be unignored again 
+  
+  * dashboard does give a score but it may be over enthusiastic b/c just based on automated testing and might be more issues 
+      - like you can score 100 by fixing all issues detected by automated checker but still may be issues that require manual testing 
   
   * Everything takes quite a bit of time to load
   
-    - Running tests can time out, that would be very frustrating
+    - Running tests can time out, that would be very frustrating <-- this also happens on SortSite
     
-  * They got a VPAT and automated ACR
+  * They could get a VPAT and automated ACR
+  
+  * Domain discovery big thing they have 
+    - can run lighthouse accessibility report which sends browser to those sites and then populates accessibility scores 
+    - running tab, general view 
+    
+  * If have a piece of code we know definitely has an error, can do a search on that which will show all places across the site where that piece of code is used 
+     - ^ this is nice, i like that 
+     
+  * A blind user at Harvard is currently testing their platform for accessibility 
   
   
 Overview
 
   * Can see some scores and host of errors
   
-    - EX: images are flagged for size (affects loading of page) and alt text
+    - EX: images are flagged for size (affects loading of page) and alt text, the one they showed us was just for size, 
+         it actually had alt text but Gavin and Billy said it didn't 
   
   
 Accessibility Reports
   
-  * Can toggle between 508 Score (2.0), A Score (2.1), AA Score (2.1), and AAA Score (2.1)
+  * Can toggle between section 508 Score (2.0), A Score (2.1), AA Score (2.1), and AAA Score (2.1)
+    * for NASA they can set our default setting to 508 (for WCAG 2.0)
   
   * Can export report into a CSV file
   
   * Can add/delete/run multiple pages
   
-  * Can run individual page reports in real time
+  * Can run individual page reports in real time <-- I like this -Rio
+    - once you fix a page, can rerun the test and see if you introduced new areas or successfully fixed the errors 
+  * can assign people to review certain errors 
+  
+  * can track scores overtime 
 
   * Shows notices (green), warning (yellow), and errors (red)
   
@@ -64,15 +89,23 @@ Accessibility Reports
   
       - Recommends color changes for contrast ratio, but doesn't account for design (obviously)
       
-  * Shows links without text or indescriptive text
+  * Shows links without text or indescriptive text (links should have title or alt text)
+  
+  * NASA About heading on the nav bar is unclear (picked up by the checker)
+    - should have text that can be read by a screen reader that's more clear than about (don't have to change display of 'about' to non screen reader user)
+    
+  * checker picked up that search bar form placeholder not good, better to use a label so AT can read it 
   
   * Screen Reader Wand = hover over any content and see what a screen reader would read
   
   * Shows ARIA landmarks 
   
       - Content without ARIA Landmarks won't show up as errors
+      - aria landmarks act as a map so instea do of scroll w a mouse, navigate w aria landmarks like here is search box, main content, an image, etc. so can get
+        where you want right away 
   
   * Technical View shows backend errors, Inspect View shows frontend errors
+    * inspect view flags unfortunately not tab accessible <-- tool not completely accessible rip 
   
 Pricing
 
@@ -84,6 +117,12 @@ Pricing
   
     - Annual or multi-year pricing
   
-    - Having Little Forest fix errors themselves costs extra (we probably won't need this)
+    - Having Little Forest fix errors themselves (manual testing) costs extra (we probably won't need this) (this is charged by time and materials) 
     
-      --> Unlimited pages
+      --> Unlimited pages and domains 
+      
+    - includes accessibility training for company like how to write alt text, etc. get culture of accessibility and message out
+    
+  * can definitely get a scaled down pricing if only want the service for certain domains (no limit on number of pages) 
+    this would prob be half cost of enterprise solution
+  
