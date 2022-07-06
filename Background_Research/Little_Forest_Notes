@@ -1,0 +1,89 @@
+* They called Antonio and Betsy Antony and Betsy respectfully, lmao
+
+Features
+
+  * They're providing software? I thought it was cloud-based, I'm confused
+
+  * Can manage users
+  
+  * Can create projects to work on certain sites
+  
+    - green number = number of sites, red number = number of failed sites
+    
+        --> green is total number of sites, don't add numbers together!
+  
+  * Can make reports be monthly (good feature for NASA)
+  
+  * Can choose certain sites/files to not include in the report
+  
+  * Error layout is smushed and not the most user friendly
+  
+      - There's a LOT of information
+      
+      - Can't edit errors via Little Forest
+      
+        --> However, they've got some other platform to edit errors onsite (in progress)
+  
+  * Can ignore errors to allow users to focus on other errors
+  
+  * Everything takes quite a bit of time to load
+  
+    - Running tests can time out, that would be very frustrating
+    
+  * They got a VPAT and automated ACR
+  
+  
+Overview
+
+  * Can see some scores and host of errors
+  
+    - EX: images are flagged for size (affects loading of page) and alt text
+  
+  
+Accessibility Reports
+  
+  * Can toggle between 508 Score (2.0), A Score (2.1), AA Score (2.1), and AAA Score (2.1)
+  
+  * Can export report into a CSV file
+  
+  * Can add/delete/run multiple pages
+  
+  * Can run individual page reports in real time
+
+  * Shows notices (green), warning (yellow), and errors (red)
+  
+      - Click on number and see WCAG violations + links to W3C website
+      
+      - Occurences are in small number below
+
+  * Shows errors in HTML code
+
+  * Can set up credentials to bypass authentication
+  
+  * Can see contrast changes in real time
+  
+      - Recommends color changes for contrast ratio, but doesn't account for design (obviously)
+      
+  * Shows links without text or indescriptive text
+  
+  * Screen Reader Wand = hover over any content and see what a screen reader would read
+  
+  * Shows ARIA landmarks 
+  
+      - Content without ARIA Landmarks won't show up as errors
+  
+  * Technical View shows backend errors, Inspect View shows frontend errors
+  
+Pricing
+
+  * https://littleforest.co.uk/pricing/
+  
+  * Doesn't limit concurrent users
+  
+  * Enterprise package doesn't limit number of pages- ($14,400)
+  
+    - Annual or multi-year pricing
+  
+    - Having Little Forest fix errors themselves costs extra (we probably won't need this)
+    
+      --> Unlimited pages
