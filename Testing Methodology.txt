@@ -1,30 +1,60 @@
-﻿1. Configure and record settings 
-   1. section 508 & WCAG 2.0 standards enabled
-   2. spidering enabled
-   3. note any other settings used (even if default) 
+1. Configure and record settings 
+ 
+   1. Can you enable checks against Section 508 & WCAG 2.0?
+   2. Can you spider?
+   3. What are other notable settings useful to users?
+   
+____________________________________________________________________________________________________________________________________________________________
+   
 2. Run scan 
-   1. record time it took (start time, end time, and date) (if applicable, some companies might just provide us with the results of the sites we test so can’t do this) 
+
+   1. How long do webpage scans take?
+      - Only if we can scan ourselves 
+      - End time - start time, and include date of scan 
+____________________________________________________________________________________________________________________________________________________________   
+   
 3. Compare against manual testing 
-   1. record all issues detected in the respective baseline standard 
-      1. the specific issue itself 
-         1. how informative / accurate 
-            1. 0 - not accurate (aka false +) 1 - ambiguous 2 - accurate 
+
+   1. What issues (508 or WCAG 2.0) were caught by the WAC?
+   
+      1. What is the specific issue?
+      
+         1. How informative / accurate are the error messages?
+         
+            - 0 - not accurate (aka false +) 1 - ambiguous 2 - accurate 
+            
          2. difficulty for humans to detect this issue
+         
             1. 0 - easy  1 - medium 2 - hard (aka very helpful) 
+            
          3. if guidance is provided on how to fix issue, is it
+         
             1. rooted in official documentation from section 508/WCAG 2.0? 0 - no 1 - yes
             2. does it link to documentation/helpful pages
+            
                1. 0 - no 1 - yes
             3. if auto suggestions are provided, are these helpful and reflective of good practice? 
+            
                1. 0 - no 1 - somewhat 2 - yes
+               
       2. total # / standard
+      
    2. record missed issues (amount & what they are) 
+   
       1. out of the standards that require manual testing, how many of these does it point out need manual checking? (maybe warning instead of error)
       2. does it do anything to assist with manual checking?
+      
+____________________________________________________________________________________________________________________________________________________________      
+      
 4. Assess accessibility of checker itself
+
    1. Perform ICT baseline Testing & record results 
    2. does it appear the company makes an effort to ensure accessibility of their services (for ex. having people with disabilities test their services) 
+   
+____________________________________________________________________________________________________________________________________________________________   
+   
 5. UX
+
    1. how does it present issues? on the site itself highlighted / source code / etc.
    2. organization
       1. by issue type 
@@ -35,7 +65,11 @@
       1. 1 - strongly disagree 2 - disagree 3 - neutral 4  - agree 5 - strongly agree
       2. note any annoying things 
    6. is reporting concise or repetitive? If there is an issue on a page that uses a template that repeats across many pages, can the checker tell us? 
+   
+____________________________________________________________________________________________________________________________________________________________   
+   
 6. additional features/functionality to record
+
    1. monitoring vs by-need auditing 
       1. if monitoring, can we cutomize frequency & does it retest pages that haven’t changed 
    2. cloud or desktop based 
@@ -47,15 +81,30 @@
    6. task management system?
       1. 0 - no 1 - yes
    7. any additional features or what makes this checker special
+   
+____________________________________________________________________________________________________________________________________________________________   
+   
 7. Owen and Rio each run scan twice and compare with self and each other that same issues are caught across the board. Also record time for scan, take average of the 4 scan times at the end. 
+
+____________________________________________________________________________________________________________________________________________________________
+
 8. Customer Service
+
    1. how responsive is company to questions / help 
       1. 0 - not responsive 1 - somewhat responsive 2 - responsive
    2. how friendly 
       1. 0 - not friendly 1 - somewhat friendly 2 - friendly 
+      
+____________________________________________________________________________________________________________________________________________________________      
+      
 9. Pricing 
+
    1. plan type (subscription, by use volume, etc.)
    2. limit users?
    3. price 
+   
+____________________________________________________________________________________________________________________________________________________________   
+   
 10. Vendor willing to go through FedRAMP (cloud-based) and produce ACR?
+
    1. 0 - no 1 - yes
