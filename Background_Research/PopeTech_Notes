@@ -1,1 +1,75 @@
+* We've got a demo for a couple of days!!!
 
+* He's very nice
+
+  - Looks like Jeff Bezos but probably isn't too evil lmao
+
+Overview
+
+  * Uses WAVE engine
+  
+  * Cloud-based, but not FEDRAMP certified
+  
+    - Worked with government, and got the military to vouch for them
+  
+  * Contains "Help" tab and support videos
+  
+  * Manual testing is explicitly encouraged
+  
+  * Designed to handle high volume demand
+  
+  * Offers training for admins and users
+  
+  * Can scan as much as needed and in intervals
+  
+  * Primarily for public-facing websites (not interested in FEDRAMP)
+  
+    - FEDRAMP cert costs $250,000/year?! 
+    
+    - Could be issue if we NEED FEDRAMP certification
+    
+      --> If this is cheap though, NASA could use Pope Tech, and the confidential stuff could use another WAC
+  
+Features
+
+  * Get errors broken down by types (errors, contrast, ARIA, etc)
+  
+  * Can create group assignments (assign users/groups to websites)
+  
+    - Divide up work, set up roles and permissions
+    
+    - Can submit support tickets and help desk requests (limited users based on account)
+    
+ * Can separate content editing from template editing
+
+ * All reports are exportable
+ 
+Accessibility
+
+  * Errors are detected in a fully automated way
+  
+  * Lists errors by count/website
+  
+  * Lots of resources to help manual testing
+  
+  * Can preview proper contrast with the Contrast sliders
+  
+  * Can view HTML and see errors in code
+  
+  * Structure, Features, and ARIA are for human testing
+  
+  * Errors, Contrast, and Alerts are automated
+  
+  * Shows pie chart of types of alerts
+  
+Pricing
+
+  * pope.tech/pricing
+  
+    - See monthly prices
+  
+  * Alerts show what needs to be manually tested
+  
+  * Anual price < monthly pricing
+  
+  * Looks mad cheap??
