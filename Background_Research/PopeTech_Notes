@@ -1,6 +1,6 @@
 * We've got a demo for a couple of days!!!
 
-* He's very nice
+* He's [Mark Pope] very nice
 
   - Looks like Jeff Bezos but probably isn't too evil lmao
 
@@ -11,6 +11,19 @@ Overview
   * Cloud-based, but not FEDRAMP certified
   
     - Worked with government, and got the military to vouch for them
+    
+  * Primarily for public-facing websites (not interested in FEDRAMP)
+  
+    - FEDRAMP cert costs $250,000/year?! 
+    
+    - Could be issue if we NEED FEDRAMP certification
+    
+      --> If this is cheap though, NASA could use Pope Tech, and the confidential stuff could use another WAC <--- I like this idea, - Rio
+      
+    - they just scan the DOM or what the user can already view in the browser when they clikc inspect 
+     -- they can go behind logins but not designed for confidential info, suggest run on own servers or locally if we need to do that 
+ 
+  * Pope Tech has a lot of university clients and have also worked w a leading branch of the military
   
   * Contains "Help" tab and support videos
   
@@ -22,45 +35,71 @@ Overview
   
   * Can scan as much as needed and in intervals
   
-  * Primarily for public-facing websites (not interested in FEDRAMP)
-  
-    - FEDRAMP cert costs $250,000/year?! 
-    
-    - Could be issue if we NEED FEDRAMP certification
-    
-      --> If this is cheap though, NASA could use Pope Tech, and the confidential stuff could use another WAC
-  
 Features
 
   * Get errors broken down by types (errors, contrast, ARIA, etc)
   
-  * Can create group assignments (assign users/groups to websites)
+  * Can create group assignments (assign users/groups to websites) (can create as many groups as we need)
   
     - Divide up work, set up roles and permissions
     
-    - Can submit support tickets and help desk requests (limited users based on account)
+    - users will only see the websites that are assigned to their group
     
- * Can separate content editing from template editing
+    - Can submit support tickets and help desk requests (limited users based on account type)
+    
+ * Can separate content editing from template editing (powerful tool to use when diff users are responsible for diff parts)
 
  * All reports are exportable
+ 
+ * can create tasks for Asana & Jira
+ 
+ * graphs performance on errors over time 
+ 
+ * all the documentation on how to use the platform is on "help center" top right button 
+     -- crawl and scan > 3 min video on how to crawl and scan site 
+     
+ * can scan behind authentication, but if we do set it up with a test email login or something don't put in sensitive credentials 
+ 
+ * can mass import a website like upload whole portfolio of nasa websites all at once and assign pages to groups and set their settings etc 
+  -- will spider all and test all 
+  -- they have successfuly onboarded a whole university's site that had a half million pages in one weekend! 
+  -- Pope tech designed to handle high volume like NASA 
  
 Accessibility
 
   * Errors are detected in a fully automated way
   
+  * if something is detected w. high reliability as an error, will put that in 'error' or 'contrast' error 
+  
+  * yellow alerts are things that are suspicious/require human judgment b/c in one context may be an error but in another context it's not 
+  
+     -- Pope Tech puts a lot of effort into making these alerts and alerts point out stuff that humans just need to check themselves b/c context dependent
+     -- Pope Tech rather lists stuff as alerts if not sure than create false positives by listing them as errors 
+     -- an example of an alert would be something like go check captioning for this video 
+  
   * Lists errors by count/website
   
-  * Lots of resources to help manual testing
+  * Lots of resources to help manual testing and really encourage ppl to go beyond automated testing 
   
-  * Can preview proper contrast with the Contrast sliders
+  * Can preview proper contrast with the Contrast sliders (just activate inspect button) 
   
   * Can view HTML and see errors in code
   
-  * Structure, Features, and ARIA are for human testing
+  * have documentation and additional resources on how to fix errors (all of this stuff is pubicly available too)
   
-  * Errors, Contrast, and Alerts are automated
+  * Structure, Features, and ARIA are for human testing
+     - it will show you image and alt text and you determine if alt text really conveys appropiate info to someone who can't see that image 
+     - structual elements: like is navigation really highlighting nav or is main capturing start of main page or is this heading structure 
+        sensible for someone who uses a screen reader 
+
+  
+  * Errors, Contrast, and Alerts are automated test results
   
   * Shows pie chart of types of alerts
+  
+  * they try to make their platform accessible!
+    - they schedule regular accessibility checks for their dashboard, they do their own aduits, and they work with 2 non profit groups who have users with 
+      disabilities who do checking for them. One of them i think worked on WAVE team or something like that
   
 Pricing
 
@@ -70,6 +109,21 @@ Pricing
   
   * Alerts show what needs to be manually tested
   
-  * Anual price < monthly pricing
+  * Annual price < monthly pricing
   
-  * Looks mad cheap??
+  * Looks mad cheap?? <-- I agree, - Rio
+  
+  * unlimited users and is cloud based and charges based on page count 
+  
+  * # of users who can utilize help desk support is based on account type 
+     -- he will unlock help desk feature for our trial so we can test it out, nice 
+      -- he said to feel free to create a ticket and reach out to pope tech support if we get stuck anywhere 
+    -- the way help desk works is that they can tell you what the end result needs to look like and what the issue is and what browser needs for it to pass
+      but can't help w backend stuff b/c lots of diff options for how to fix in backend 
+  * w the annual account, it comes with training for both users and admins 
+   -- onboarding service comes at no extra charge 
+   
+  * can rescan as often as you need at no additional cost; can schedule a report to be done every month or whatever 
+    -- the idea behind this is to encourage people to rescan and fix things and document their results 
+  
+  * every month they focus on a diff accessibility topic and provide training resources on how to train ppl on that topic 
