@@ -16,4 +16,88 @@ Features
   
   * Displays issues, errors, WCAG violations
   
-  * 
+ can export issues into csv
+
+
+worldspace is old name for axe monitor
+
+
+other tools that they offer use automated accessibility scan feature at component level or web page level for a scan 
+* some provide some assistance w manual testing
+* axe auditor intended for accessibility subject matter experts to perform all manual testing
+
+
+axe monitor: automated testing across web application
+
+
+can set up multiple projects
+
+
+when examine scan for particular financial institution
+can configure scan and include url of that scan
+pass in some reference to particular domain put under test and then set depth of that scan
+
+
+also ability to schedule scans to run periodically
+* could change scheduling
+once have scan occuring on particular project have ability to identify high level insights about accessibility on entire application
+* high level insights: provide organization w operational intelligence
+* what is the state of an application’s digital accessibility and where has that state been? what is context for what that state is
+
+
+for example can gain some insights: i have scanned 112 pages of application, of those pages, 20 had at least one critical issue
+issue breakdown by severity add to score for particular axe monitor project
+operational intelligence about what is state of my digital accessibility
+allow u to drill down on pages and issues to get to specific accessibility violations on these pages
+
+
+take this data and display it w other projects
+
+
+axe reports dashboard which is part of axe monitor
+* can wrap all of scan data into particular tags under particular umbrella
+* able to wrap all financial projects under fin tag and compare all projects under that banner to rest of my projects
+* compare accessibility score to every other project in my system
+
+
+identification of issues by category, by severity etc
+
+
+give source code where particular violation happening
+some remediation information
+remediation info is in addition to relevant deque university links
+identify specific violation also provide users w even more info and education to understand issue and remediate 
+understand more about why particular issue matters
+
+
+
+
+display info about comments of issue 
+* saved at that issue
+
+
+cloud based tool
+* can handle fedramp
+
+
+behind authentication: can change default behavior of axe monitor
+* by default navigates to particular page and domain and run auto scan
+* if change state of page or application
+* axe monitor scripts
+   * using scripts define custom scripts execute certain commands
+* ability to perform specific commands 
+* click on elements, type into elements
+* define actions for monitor to take on a page
+* pass actions to axe monitor and apply it to authentication information
+* if have app that requires authentication, pass in scripts into username and password fields, so rest of application in authenticated session
+on premises version
+* when distribute as sas based version, provide user w reserved instance from AWS give u a server hosted on AWS hosting axe monitor
+* on premise version u be hosting everything on your server, not going to cloud or AWS, your own org do hosting of axe monitor
+
+
+Lisa Adams connected w Rio on linkedin right after the call
+
+Owen thinks Axe Monitor has a focus on data visualization 
+
+
+scripts powerful feature but might be overly technical for people trying to test nasa pages
