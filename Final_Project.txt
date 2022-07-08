@@ -314,10 +314,14 @@ Timeline - 5 weeks total
       
       * Play around with PopeTech!! (collect all types of data for now, don't be too stringent on our criteria)
       
-      * Can Owen get SortSite?!?!?!?!!?!?!? (Asset number + software to Naymon Brown (SortSite, Accessibility Insights, Acrobat, Office)
+      * Can Owen get SortSite (Asset number + software to Naymon Brown (SortSite, Accessibility Insights, Acrobat, Office))
       
       * Add more to Testing Methodology (create a draft report template)
       
+        - Including, but not limited to:
+      
+        - Title page, table of content, introduction, hypothesis, research, criteria, methodology, analysis, conclusion
+        
     (7/11-7/15)
     
     (7/11)
