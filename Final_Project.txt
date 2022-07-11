@@ -328,6 +328,10 @@ Timeline - 5 weeks total
     
       * Edit 508 PM PowerPoint based on Betsy's feedback
       
+      * Auto-test nasa.gov/stem and sewp.nasa.gov with Little Forest and PopeTech
+      
+       - Make new Sheet for PopeTech
+
       * Expand on report template
     
     (7/12)
