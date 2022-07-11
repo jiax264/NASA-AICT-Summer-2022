@@ -1,0 +1,54 @@
+Had some time today, so got started on automated vs manual testing comparison using Little Forest for nasa.gov/stem.
+
+https://docs.google.com/spreadsheets/d/16JqM6jukoJ-WeB1jqhAsaqIHlvPTdz3NEAJf7FSTpXE/edit?usp=sharing 
+
+Column Key:
+Issue: The specific violation (either identified manually or automatically or both) with the offending element/description. This is broken up into broad categories. 
+
+ID Manual
+
+Y: Yes, manually identified this
+
+N: No, did not manually identify this
+
+WCAG Manual
+
+#.#.#: the WCAG standard manually identified 
+
+N/A: did not manually identify this issue 
+
+ID Automated
+
+E: Yes, WAC identified this as an Error
+
+W: Yes, WAC identified this as a Warning
+
+N: YES, WAC identified this as a Notice
+
+MISSED: WAC did not identify this 
+
+WCAG Automated
+
+#.#.#: the WCAG standard(s) WAC identified
+
+N/A: WAC did not identify this issue
+
+Correctness
+
+0 (lighter red): False Positive, WAC wrong, not an actual issue 
+
+1 (yellow): WAC identified element with issue but not specific enough or rationale not about the main issue or is a recommendation but not a direct violation of WCAG
+
+2 (green): WAC identified the exact issue with the same rationale that manual testing identified 
+
+N/A (darker red): WAC did not identify this issue  
+
+Difficulty for Manual
+
+0: easy to identify manually, takes very little time 
+
+1: medium to identify manually, takes some effort
+
+2: difficult to identify manually, basically impossible unless you have a lot of time and patience 
+
+Key note: This rating is not based upon whether in reality, we did manually detect this issue but is a more subjective rating on how hard you think it would be to manually detect this issue. Consider things like, how frequent does the type of the element in violation occur on the page? If it occurs a lot, will be hard to manually sift through and find occurences of the issue. Is it something we have to just do once like verify the presence of a title? (easy). This may be different for different pages. For example, if one page only has 1 image, then it is easy to verify alt text for that 1 image but if the page has 100 images, then it is hard to verify alt text for 100 images. 
