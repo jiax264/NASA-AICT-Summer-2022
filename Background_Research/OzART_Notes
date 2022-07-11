@@ -58,6 +58,8 @@ Helpdesk
 Demo
 
   * Seems like everything is geared towards the exportation of a report, and less about the WAC itself
+  
+    - Everything is about management, making reports, etc
 
   * Errors group by type, with Defects, Inspect, Won't Fix, and Fixed columns in table
   
