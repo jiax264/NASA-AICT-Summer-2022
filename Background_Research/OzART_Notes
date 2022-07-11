@@ -90,4 +90,268 @@ Demo
     - URL column shows errors, HTML code, screen reader screen shot, and mobile view
     
     
-    
+    headquartered in australia
+since 2014
+mcdonalds is largest client
+california community colleges tech center
+automated accessibility testing tool we use that to do all our testing
+
+update quite regularly
+ozart automated accessibility testing tool
+video about ozart
+
+ozwild: database, screenshot, code and solutions
+ozplayer: accessibility video player, fully accessible can see support matrix what works w that
+for govt is half price
+max price is 10K
+accessible slideshow
+a11y articles / a11y voices
+firefox extension mimics what things look like for people who use screenreaders
+
+factsheets: free on diff categories images maps videos coding source order etc
+each section tells us principles, impact on users, testing checklist, developer checklist and each requirement
+have code and live demo
+accessible progress meter can grab and use however u like
+all available under creative commons
+html, forms, aria little accessibility videos
+articles interviews etc
+
+staff around world
+birmingham wolf games biggest clients
+
+not fedramp certified
+web based system
+cloud based
+can place internal instance
+on AWS but host on their versions of AWS
+
+worked on first australian accessible website
+since 1998 worked in accessible
+contributed to wcag 2
+spent 5 years at ivy league university running accessibility and usability division in australia
+started accessibility oz which is 11 years old now
+united nations something
+in industry people unimpressed w wcag and mobile accessibility 
+2.2 release delayed a bunch
+wcag 2 and 2.1 not addressing mobile accessibility
+
+30% accessibility errors can be identified by automated tool
+
+OzART accessibility system not just testing tool
+does automated and manual testing
+
+manual testing
+select pages and test those
+on avg it takes one day to test one web page
+
+developers supposed to extrapolate but maybe don't extrapolate properly
+
+automated testing
+run the tool over entire site
+finds some issues but only find 30% accessibility issues
+developers look at those errors and fix errors and end up w pages that have some errors and some fixes but site still not compliant
+
+ozart does facilitated testing
+30% automatically identified
+errors that can be identified within OzART by human tester
+10% look at captions have to look at site itself
+
+tool cant auto identify categories
+coding forms videos content tables images
+human testers go thru categories and say if is failure or pass
+facilitated testing takes 10-20% of time of manual testing when talked to clients
+highly structured so results are consistent
+repeatable
+recorded for posterity
+
+automated results, got manual results testers have done and all within tool, tool sends all this info to developers who can implement fixes
+
+groups info
+instead of saying this page got all these failure and all these failures on this page
+groups info 
+this particular error on 12 pages
+if go to that link, give u list of urls with that error
+so end of day compliant site
+
+manual testing maintenance
+comprehensive
+usually w manual testing, got something like this where fix bunch of pages manually but not everything, then some changes. test those pages that changed 
+still have non compliant site b/c not everything fixed
+
+automated testing bunch of pages changed but testing tool tests everything all over again
+so much it knows and so much it does not know
+still end up a lot of errors on site
+
+ozart
+got pages have been changed
+ozart can tell when page been changed
+even if changed to comma or alt attribute
+ozart know these are pages that changed so only test these pages
+manual testers test things manually thru tool find errors, and testing tool found errors merge and give that to developer and developer fixes and everything good
+
+mcdonalds test 5 diff websites each week 7,500 web pages under 30 hours
+identify pages that changed and test just those
+categorize info and ability of tool to provide area actually testing much quicker
+
+university of sydney ABC mcD australian gov’t dept of health queensland gov’t technology center ca community colleges
+
+have 24/7 support
+development team in australia can spend entire business day working on that by next morning, v responsive
+
+ozart tester process
+run ozart over site, assign each ozart category to tester, test each error in category, export errors to word audit report and excel summary spreadsheet 
+run ozart over site
+assign each ozart category to a tester
+standard and advanced categories
+advanced categories more manual testing involved
+
+test each error in a category
+inspects: manually review each error, mark ok if pass defect if fail, won’t fix if can’t be fixed
+can mark as won’t fix or okay and when tool run again once make changes to site, remembers those classifications so if havent made changes to that alt attribute will retain those statuses
+so don't deal w false positives consistently in areas cant fix
+if defects
+create example 
+track testing in tabs section
+add example from ozart
+modify error title description and solution
+export errors
+audit report -word
+defects and stats - excel
+defects -jira
+developers can mark errors as fix or wont fix
+
+defects: actual errors tool knows is an error like image missing alt text or something looked at manually and marked as defect error
+status of error in report
+
+can test just template area of site like nav area header footer
+can test just general content
+can test just technical content
+if want to test just template can do that 
+
+want to just test content if have fully accessible template
+don't want to keep looking at that if know template accessible
+
+when importing this # of options
+can turn off popups 
+specify browser window size
+can get desktop and mobile size screenshots
+and screenreader screenshots
+
+can access pages thru username password whitelist IP, VPN, basic Auth, firefox
+
+spidering and lsiting url process
+can limit pages like test only 100 pages or certain levels of site
+exclude site folders
+schedule repeated runs every day or month etc
+create ozart database and ozart fetches pages and runs tets
+spidering simple
+
+upload process more complex
+view page in firefox
+capture page using wizard of ozart firefox extension save as json
+save json as zip folder
+upload zip file in ozart 
+
+can assign users to diff ozart databases, create groups of diff ozard admins 
+
+helpdesk and support
+ozart fully accessible
+only automated accessibility tool that is fully accessible
+someone work as accessibility person who uses screen reader to test
+keyboard accessible 
+weekly support meetings until u ready 
+longest have had that is 3 weeks
+have freshdesk can log errors through that can email or phone them
+24/7 support
+
+rport set
+statistics about site
+486 errors 
+87 complete
+testing results 
+71 pass 16 fail
+
+# defects diff categories & # inspects
+
+if test everything under a category then have fully tested site
+
+instructions in tool for u to test manually
+all instructions and results thru tool
+work thru tool know fully accessible
+even w calendar a lot of instruction on how to do testing manually
+
+view list of fetched pages >> file list
+
+3 diff icons next to each page
+info icon shows just the errors that occur on that page
+code icon is generated code to refer back to what was on website
+monitor icon shows screenshot of page
+can test color contrast etc
+many diff versions of screenshot
+screen reader mode
+capture stuff remove styling and have display where aria hidden true and visibility hidden
+what on screen is what screen reader would read
+search nasa.gov as text will come across as text to screen reader user and search button unavailable to them
+determine search unavailable to screen reader user
+stylesheets will rename to screen reader accessibility
+got mobile view
+see what’s going on and what happens in mobile view
+catch some issues like this
+make sure everything looks good
+
+images category
+report set
+stats
+impact statement
+write para say this is what’s happening
+the errors that need to test
+this tool made for multiple testers want to make sure testing reliable
+easy yes/no answer
+make sure reliable w multiple testers
+
+did not find means passed requirement
+
+high medium low accessibility oz decided but u can change level
+
+instructions; give description 
+ozwiki give wcag success criteria and give error
+give incorrect example and a solution
+
+testing progress: 
+testing result
+can change autoreport
+
+view event log to see who done w this report
+
+inverse search to find everything does not have this term
+
+can also add comment for status
+
+take screenshot w snipping tool and save as 
+change status to defect then check box and ‘add example’  and choose screenshot u took and put in caption like group photo and put alt attribute which will end up in word document 
+give title can add comment if u want 
+can override override default imapct, can say high medium or low
+
+about this error, can say see nasa webinar alt attribute 
+‘fetch report’ will create report just for this error and see what looks like
+
+heading not nested properly, often hides diff issue like missing heading
+even tho defect show u the layout of the headings can see h1 h1 h3 etc
+the real issue is contact page should be h2 instead of missing h2 
+those kinds of errors ozart lets u find those errors
+content has been incorrectly coded as heading error
+easy to work thru same type of issue all at once
+
+global status change can mark all inspects as okay
+can change everything in test case as that
+
+can also export data to excel set up jira set up to jira
+can export just inspects, just defects etc
+
+can say show me just defects then only see defects filtered from all of them
+can automatically find scanned pdfs
+some pdfs not tagged, pdf title if legible 
+easy for tester to test 5-10 min bc everything categorized in easy way 
+
+user manual: getting started w ozart, tester guide 
+
