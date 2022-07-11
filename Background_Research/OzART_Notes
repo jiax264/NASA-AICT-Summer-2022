@@ -1,17 +1,85 @@
-Gian Wild - CEO of AccessibilityOz
+* Gian Wild - CEO of AccessibilityOz
 
-Based in Australia, but has US subsidiary
+* Based in Australia, but has US subsidiary
 
 
 Overview
   
-  * TONS of support, information, examples, uses cases, etc
+  * TONS of support, information, training, examples, uses cases, etc
+  
+    - Trying to keep with the times (WCAG 2.1, 2.2, and mobile accessibility)
   
   * Not FEDRAMP certified, cloud-based, but willing to get FEDRAMP certified
   
     - Uses AWS, but hosts instances on CLIENT version/account of AWS (internal, gets past security)
     
-    - 
-  
-  
+OzART
 
+  * OzART is an accessibility system (allows for manual and automated)
+  
+  * Allows for manual, automated, and facilitated testing
+    
+  * Automated Testing = can tell which pages are changed and test only those pages
+  
+    - Splits issues into categories, and human testers can verify/sift through errors
+    
+    
+Tester Process
+
+  * Run OzART, assign category to a tester, test each error/category, export results, fix errors
+  
+  * Definitive errors = Defect, pending review = Inspect 
+  
+    - Inpsect --> mark "Okay", "Defect", or "Won't fix"
+    
+  * Audit report goes to Word, defects and stats go to Excel, defects go to Jia
+  
+  * "Fixed" will become "Defect" if they haven't been changed, "Defect" will become "Reported" 
+  
+  
+Importing Content
+
+  * List URLs, spidering process, or upload process
+  
+    - Can limite spidering to certain levels/folders/test intervals
+  
+  * Can test just template, content, or all of it
+  
+    - Can assign reports to responsible parties
+    
+ Admin Options
+ 
+  * Schedule tests, assign users, create groups
+  
+Helpdesk
+
+  * Fully accessible WAC, 24/7 support, weekly support meetings, email, phone number
+  
+Demo
+
+  * Seems like everything is geared towards the exportation of a report, and less about the WAC itself
+
+  * Errors group by type, with Defects, Inspect, Won't Fix, and Fixed columns in table
+  
+    - Errors within reports are hella broken down
+    
+    - "Fail (needs examples)" is a fail, "Did Not Find" is a pass
+    
+    - Stats tabs shows frequencies of issues
+    
+    - High/Medium/Low priority errors can be changed by user
+    
+  * Individual errors have instructions, OzWiki, WCAG violation, etc
+  
+    - Can update error status, assign error to tester, and add comments
+    
+    - Error row is shown below, and error is outlined on page
+  
+  * Progress bars to show issues that have been started and fixed
+  
+  * Access pages via "View fetched pages" button
+  
+    - URL column shows errors, HTML code, screen reader screen shot, and mobile view
+    
+    
+    
