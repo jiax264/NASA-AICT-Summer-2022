@@ -337,6 +337,12 @@ Timeline - 5 weeks total
     (7/12)
     
       * Present 508 PM PowerPoint during PM meeting!
+      
+      * We have PopeTech, Little Forest, and OzART trials
+      
+        - Go through and qualitatively assess each WAC
+        
+          --> Write down observations, how errors compare to our manual testing, how we can use it, how easy it is to use, etc
  ___________________________________________________________________________________________________________________________
  
   Performance Evaluation - (7/18 - 7/22)
