@@ -343,6 +343,15 @@ Timeline - 5 weeks total
         - Go through and qualitatively assess each WAC
         
           --> Write down observations, how errors compare to our manual testing, how we can use it, how easy it is to use, etc
+          
+          
+    (7/13)
+    
+      * We have all tools (PopeTech, Little Forest, OzART, Silktide, SortSite)
+      
+        - Go through and qualitatively assess each WAC on nasa.gov and sewp.nasa.gov
+        
+          --> Write down observations, how errors compare to our manual testing, how we can use it, how easy it is to use, etc
  ___________________________________________________________________________________________________________________________
  
   Performance Evaluation - (7/18 - 7/22)
