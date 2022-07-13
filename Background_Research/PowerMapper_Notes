@@ -30,6 +30,10 @@ Scans
   * Can scan SharePoint
   
     - SharePoint URLs are almost identical except for hexadecimal at end of URL
+    
+  * Crawls by default, but crawling can be configured under "Scan Options"
+  
+  * Can scan past authentication, but crawler will scan "Log Out" by default, so should ignore it in "Scan Options"
   
 Summary
 
@@ -49,3 +53,15 @@ Pages
   * Can view all pages and PDFs
   
   * Can view issues by page
+  
+Pricing
+
+  * Cheap or nah?
+
+  * Got licenses
+  
+  * Desktop = $349/user
+  
+  * Cloud-based = $49/user/month
+  
+  * Enterprise = $8,000/50 users
