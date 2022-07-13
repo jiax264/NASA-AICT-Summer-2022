@@ -1,0 +1,150 @@
+since 2006
+first tool support wcag 2.0 in dec 11 2008
+been continuing developing and improving stuff since then
+cooperative proj w people in w3C who developed wcag
+actdrools
+accessibility conformance testing tools
+w3 try to standardize these so tools produce same results for same input
+project since 2016/2017 and sortsite has been actively participating in that 
+partly sponsored by european union
+few companies and academic institutions
+siteimprove, deque, involved in that and academic institutions across europe
+
+set of tests done by uk digital service people who develop uk gov’t websites
+run on 10, 12 accessibility tools and done couple rounds of testing 
+get idea of how tools perform against each other
+
+survey done by uk digital service 
+academic paper done in 2013 which was presented at w4 something conference 
+and sortsite came out well on that
+
+w3 site 
+how many issues get
+false positive ratio
+want to keep low false positives b/c expensive to fix accessibility issues don't want to fix stuff not a problem
+some tools 5%-35% false + ratio
+sortsite 5% false positives
+
+evidence based accessibility testing
+published ton of data on how stuff behave in assistive tech
+powermapper.com/tests
+13 thousand test data
+how stuff that supports the work whether that actually works in AT 
+W3 sufficient techniques how well those actually work 
+some sufficient techniques worse than failures on impact on users
+are documented failures in wcag cause problems? 
+some techniques originally published 2006 and that was before first iphone released w touch interfaces
+some techniques don’t work on mobile interfaces
+
+collected all test data so doing evidence based accessibility checking
+actually testing how things actually work irl
+a lot of checker tools based around browser extensions but restrictions 
+custom engines for css and javascript and plug into browser so can simulate multiple engines simultaneously check diff screen sizes
+rapid at scanning stuff
+lighthouse in chrome takes a lot longer than a third of a second to check a single page
+web crawler based so scan entire websites
+
+siteimprove does that
+browser plugins like axe dev tools more focused on scanning single pages 
+
+got better coverage than anyone else based on issues being discovered
+coverage 50% better than deque and site improve
+
+semi automated testing
+accessibility issues machine cant decide
+are images labeled correctly? cant easily check automatically 
+can do some machine learning type stuff there but takes human to figure out context 
+is label required here is info duplicated
+
+longer term looking at machine learning 
+
+when get error flagged up, for issues done tests for, will show what impact is in specific screen reader browser combination
+not labeled this button correctly so in nvda it will say button untitled and voice over in jaws say button blank 
+get idea of what user experience, and impact of issue
+accessibility compatibility rules
+done right thing but still does not work
+screenreaders inconsistent 
+how interpret markup getting better 
+but all over the place
+use aria in one and might work in voice over but not in nvda
+might work nvda firefox but not nvda internet explorer 
+flag compatibility issues
+
+does it work in all the screen readers?
+optional thing b/c not conformance failure not failing any standards
+but maybe conform w standards but still doesn’t work
+tell u specific AT and browser don’t work
+one of the outputs from evidence based accessibility testing
+those problems lessening overtime b/c we published all this data and how well screenreaders implement standards
+make screenreaders pressured to fix it 
+
+dashboard break down issues into diff categories
+find other problems that may impact accessibility
+can see in sourcecode where issue is
+link to underlying standard
+
+link next to guideline,
+can disable  rule or also report broken rule as false positive
+encourage people to do that bc improve our product make it easy for people to do that
+been doing that since 2006 
+a lot of years of false positive reports
+make it easy for people to report these 
+
+scan pdfs for accessibility issues as well
+
+word excel ppt
+can sharepoint
+url structure not well organized
+
+html stuff live in folders
+sharepoint stuff where every document got id thats hexadecimal 
+everything almost exactly same url w hexidecimal at end makes it hard to see in report 
+
+
+all: applies every javascript change produces more accurate results at expense of taking longer to scan
+a lot of content loaded thru javascript and take 10 sec before content appears 
+wait for all that stuff to happen
+typically speed when got all dom changes applied depends on speed of site’s javascript
+
+smart chooses subset of what it thinks is impt, things like homepage scanned w dom changes or things that look like impact of content of page but stuff look unimportant 
+most sites have script tag w google analytics does not affect content of page
+some pages entirely static besides script tag w google analytics
+
+none: page evaluated at point where page loaded. event scripts havent run yet
+
+what states do u need to evaluate for accessibility
+some thought only need to evaluate final stage of page
+some wcag checkpoints, loading spinners on page using aria, need to be accessible for page as it loads
+more importantly might have flashing content while page load might cause fatal seizures shouldnt kill someone during page load
+got thing open on github for aria people
+complicated issue depend on things 
+is access serialized
+how does interprocess communication work
+
+planning to add something as fixed in report, have a way of saying this is fixed or waiting for fix to arrive or suppress temporarily 
+
+settings only go three clicks deep
+1 click away from start page etc
+
+can block off certain areas 
+block all pdf files from scan for example *pdf
+
+don't change that setting page delay and page timeout
+smarter than 3 min timeout, 
+progressively reducing that 3 min timeout to avoid problems when every page timing out
+
+just type in username and password for a site, login to a site and click start check
+logoff is a link crawler can find and follow it , so need to block log off link
+link blocking block all urls w logoff on them so stop crawler from hitting that link
+
+usually logins work by setting a cookie on the site, when go back to where start from cookie still there, unless sign  out when go back to starting point should still be there
+desktop license
+perpetual license $349/user
+for as long as want
+but if want maintenance or upgrades more $
+cloud version $49/month/user
+more cheaper when buy more users
+enterprise
+$8000 for 50 users 
+price hasn’t changed in a decade
+affordable to smaller organizations
