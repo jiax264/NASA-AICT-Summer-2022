@@ -1,0 +1,51 @@
+* There's some sort of effort to standardize what errors WACs catch, spearheaded by the EU
+
+* Some UK group used 10-12 checkers on gov.uk (look for this report?)
+
+* Relationship between coverage and false positive
+
+  - The more you cover, the higher chance of a false positive
+  
+
+
+What's Unique
+
+* Evidence-based a11y testing = repository of tests of solutions
+
+  - Affects which things are flagged/covered
+
+  - Shows impact of error on screen reader and browser
+  
+  - Helps wiyh a11y compatibility (could conform but doesn't work in browser or AT)
+
+* Simulate CSS engines
+
+* Can spider
+
+
+Scans
+
+  * Shows progress circle and time elapsed
+  
+  * Can scan SharePoint
+  
+    - SharePoint URLs are almost identical except for hexadecimal at end of URL
+  
+Summary
+
+  * Breaks issues into categories: Errors, Compatibility, Accessibility, Search, Standards, Usability
+  
+    - Total shows how many pages and files are scanned
+    
+  * Breaks issues down by Level A, AA, 508 violations
+  
+    - Priority, Description and URL (contains HTML issue), Guidelines, Count (number of pages error is on)
+  
+  * Highlights issue(s) with individual lines of code
+  
+  
+Pages
+
+  * Can view all pages and PDFs
+  
+  * Can view issues by page
