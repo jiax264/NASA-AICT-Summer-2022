@@ -352,6 +352,29 @@ Timeline - 5 weeks total
         - Go through and qualitatively assess each WAC on nasa.gov and sewp.nasa.gov
         
           --> Write down observations, how errors compare to our manual testing, how we can use it, how easy it is to use, etc
+          
+          
+    (7/14)
+    
+      * Do manual v automated testing for 3rd WAC (Silktide, PopeTech, or SortSite) (Rio)
+      
+        - Acting as a pro tester
+      
+      * Write down observations for the rest of the WACs (Owen)
+      
+        - Acting as a general user
+      
+      * Work on report Introduction, Background, WAC Criteria (Owen)
+      
+        - ACM style (look that up) https://www.acm.org/publications/authors/reference-formatting
+        
+        - Ctrl + C, Ctrl + Z common info
+      
+      
+    (7/15)
+    
+      * Work on report Introduction, Background, WAC Criteria (Owen)
+
  ___________________________________________________________________________________________________________________________
  
   Performance Evaluation - (7/18 - 7/22)
